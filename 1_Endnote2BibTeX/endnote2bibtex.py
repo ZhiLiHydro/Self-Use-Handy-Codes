@@ -1,4 +1,5 @@
 # coding: utf-8
+from string import ascii_lowercase
 import tkinter as tk
 from tkinter import ttk
 from tkinter import messagebox
@@ -36,6 +37,18 @@ def generate(fin, fout):
                 key = lastname + year + title
                 keyList.append(key)
                 done = True
+    
+    repeatedkeyList = []
+    for key in keyList:
+        if keyList.count(key) > 1:
+            repeatedkeyList.append(key)
+    repeatedkeyList = list(set(repeatedkeyList))
+
+    for key in repeatedkeyList:
+        for letter in ascii_lowercase:
+            _list2str = ' '.join(keyList)
+            _list2str = _list2str.replace(key+' ', key+letter+' ', 1)
+            keyList = _list2str.split(' ')
 
     with open(fin, 'r') as f:
         count = '\n'.join(f.readlines()).count('@')
