@@ -1,0 +1,2534 @@
+﻿@article{RN1044,
+   author = {Abderrahaman-Elena, N. and Fairhall, C. T. and Garcia-Mayoral, R.},
+   title = {Modulation of near-wall turbulence in the transitionally rough regime},
+   journal = {Journal of Fluid Mechanics},
+   volume = {865},
+   pages = {1042-1071},
+   ISSN = {0022-1120},
+   DOI = {10.1017/jfm.2019.41},
+   url = {<Go to ISI>://WOS:000459972400001},
+   year = {2019},
+   type = {Journal Article}
+}
+
+@article{RN1022,
+   author = {Agostini, L. and Leschziner, M.},
+   title = {On the departure of near-wall turbulence from the quasi-steady state},
+   journal = {Journal of Fluid Mechanics},
+   volume = {871},
+   ISSN = {0022-1120},
+   DOI = {ARTN R1
+10.1017/jfm.2019.395},
+   url = {<Go to ISI>://WOS:000468628100001},
+   year = {2019},
+   type = {Journal Article}
+}
+
+@article{RN1001,
+   author = {Alam, S. and Guha, A. and Verma, M. K.},
+   title = {Revisiting Bolgiano-Obukhov scaling for moderately stably stratified turbulence},
+   journal = {Journal of Fluid Mechanics},
+   volume = {875},
+   pages = {961-973},
+   ISSN = {0022-1120},
+   DOI = {10.1017/jfm.2019.529},
+   url = {<Go to ISI>://WOS:000477617700001},
+   year = {2019},
+   type = {Journal Article}
+}
+
+@article{RN1070,
+   author = {Ardekani, M. N. and Brandt, L.},
+   title = {Turbulence modulation in channel flow of finite-size spheroidal particles},
+   journal = {Journal of Fluid Mechanics},
+   volume = {859},
+   pages = {887-901},
+   ISSN = {0022-1120},
+   DOI = {10.1017/jfm.2018.854},
+   url = {<Go to ISI>://WOS:000451288500005},
+   year = {2019},
+   type = {Journal Article}
+}
+
+@article{RN1007,
+   author = {Augier, P. and Mohanan, A. V. and Lindborg, E.},
+   title = {Shallow water wave turbulence},
+   journal = {Journal of Fluid Mechanics},
+   volume = {874},
+   pages = {1169-1196},
+   ISSN = {0022-1120},
+   DOI = {PII S0022112019003756
+10.1017/jfm.2019.375},
+   url = {<Go to ISI>://WOS:000475481700001},
+   year = {2019},
+   type = {Journal Article}
+}
+
+@article{RN1047,
+   author = {Ayton, L. J. and Chaitanya, P.},
+   title = {An analytical and experimental investigation of aerofoil-turbulence interaction noise for plates with spanwise-varying leading edges},
+   journal = {Journal of Fluid Mechanics},
+   volume = {865},
+   pages = {137-168},
+   ISSN = {0022-1120},
+   DOI = {10.1017/jfm.2019.78},
+   url = {<Go to ISI>://WOS:000458908400001},
+   year = {2019},
+   type = {Journal Article}
+}
+
+@article{RN995,
+   author = {Bandyopadhyay, R. and Matthaeus, W. H. and Oughton, S. and Wan, M. P.},
+   title = {Evolution of similarity lengths in anisotropic magnetohydrodynamic turbulence},
+   journal = {Journal of Fluid Mechanics},
+   volume = {876},
+   pages = {5-18},
+   ISSN = {0022-1120},
+   DOI = {10.1017/jfm.2019.513},
+   url = {<Go to ISI>://WOS:000477952000001},
+   year = {2019},
+   type = {Journal Article}
+}
+
+@article{RN1132,
+   author = {Benoit, L. and Allard, D. and Mariethoz, G.},
+   title = {Stochastic Rainfall Modeling at Sub-kilometer Scale},
+   journal = {Water Resources Research},
+   volume = {54},
+   number = {6},
+   pages = {4108-4130},
+   ISSN = {0043-1397},
+   DOI = {10.1029/2018wr022817},
+   url = {<Go to ISI>://WOS:000440309900019},
+   year = {2018},
+   type = {Journal Article}
+}
+
+@article{RN1016,
+   author = {Berghout, P. and Zhu, X. J. and Chung, D. and Verzicco, R. and Stevens, R. J. A. M. and Lohse, D.},
+   title = {Direct numerical simulations of Taylor-Couette turbulence: the effects of sand grain roughness},
+   journal = {Journal of Fluid Mechanics},
+   volume = {873},
+   pages = {260-286},
+   ISSN = {0022-1120},
+   DOI = {PII S0022112019003768
+10.1017/jfm.2019.376},
+   url = {<Go to ISI>://WOS:000472632900001},
+   year = {2019},
+   type = {Journal Article}
+}
+
+@article{RN1078,
+   author = {Biondi, D. and Todini, E.},
+   title = {Comparing Hydrological Postprocessors Including Ensemble Predictions Into Full Predictive Probability Distribution of Streamflow},
+   journal = {Water Resources Research},
+   volume = {54},
+   number = {12},
+   pages = {9860-9882},
+   ISSN = {0043-1397},
+   DOI = {10.1029/2017wr022432},
+   url = {<Go to ISI>://WOS:000456949300029},
+   year = {2018},
+   type = {Journal Article}
+}
+
+@article{RN1154,
+   author = {Blythe, T. L. and Schmidt, J. C.},
+   title = {Estimating the Natural Flow Regime of Rivers With Long-Standing Development: The Northern Branch of the Rio Grande},
+   journal = {Water Resources Research},
+   volume = {54},
+   number = {2},
+   pages = {1212-1236},
+   ISSN = {0043-1397},
+   DOI = {10.1002/2017wr021919},
+   url = {<Go to ISI>://WOS:000428474500031},
+   year = {2018},
+   type = {Journal Article}
+}
+
+@article{RN1100,
+   author = {Boukhelifa, M. and Meddi, M. and Gaume, E.},
+   title = {Integrated Bayesian Estimation of Intensity-Duration-Frequency Curves: Consolidation and Extensive Testing of a Method},
+   journal = {Water Resources Research},
+   volume = {54},
+   number = {10},
+   pages = {7459-7477},
+   ISSN = {0043-1397},
+   DOI = {10.1029/2018wr023366},
+   url = {<Go to ISI>://WOS:000450726000020},
+   year = {2018},
+   type = {Journal Article}
+}
+
+@article{RN1158,
+   author = {Bracken, C. and Holman, K. D. and Rajagopalan, B. and Moradkhani, H.},
+   title = {A Bayesian Hierarchical Approach to Multivariate Nonstationary Hydrologic Frequency Analysis},
+   journal = {Water Resources Research},
+   volume = {54},
+   number = {1},
+   pages = {243-255},
+   ISSN = {0043-1397},
+   DOI = {10.1002/2017wr020403},
+   url = {<Go to ISI>://WOS:000428474000014},
+   year = {2018},
+   type = {Journal Article}
+}
+
+@article{RN1071,
+   author = {Braun, N. O. and Pullin, D. I. and Meiron, D. I.},
+   title = {Large eddy simulation investigation of the canonical shock-turbulence interaction},
+   journal = {Journal of Fluid Mechanics},
+   volume = {858},
+   pages = {500-535},
+   ISSN = {0022-1120},
+   DOI = {10.1017/jfm.2018.766},
+   url = {<Go to ISI>://WOS:000449346400007},
+   year = {2019},
+   type = {Journal Article}
+}
+
+@article{RN983,
+   author = {Breda, M. and Buxton, O. R. H.},
+   title = {Behaviour of small-scale turbulence in the turbulent/non-turbulent interface region of developing turbulent jets},
+   journal = {Journal of Fluid Mechanics},
+   volume = {879},
+   pages = {187-216},
+   ISSN = {0022-1120},
+   DOI = {PII S0022112019006761
+10.1017/jfm.2019.676},
+   url = {<Go to ISI>://WOS:000487022900001},
+   year = {2019},
+   type = {Journal Article}
+}
+
+@article{RN1145,
+   author = {Brunner, M. I. and Sikorska, A. E. and Furrer, R. and Favre, A. C.},
+   title = {Uncertainty Assessment of Synthetic Design Hydrographs for Gauged and Ungauged Catchments},
+   journal = {Water Resources Research},
+   volume = {54},
+   number = {3},
+   pages = {1493-1512},
+   ISSN = {0043-1397},
+   DOI = {10.1002/2017wr021129},
+   url = {<Go to ISI>://WOS:000430364900005},
+   year = {2018},
+   type = {Journal Article}
+}
+
+@article{RN1143,
+   author = {Brunner, M. I. and Viviroli, D. and Furrer, R. and Seibert, J. and Favre, A. C.},
+   title = {Identification of Flood Reactivity Regions via the Functional Clustering of Hydrographs},
+   journal = {Water Resources Research},
+   volume = {54},
+   number = {3},
+   pages = {1852-1867},
+   ISSN = {0043-1397},
+   DOI = {10.1002/2017wr021650},
+   url = {<Go to ISI>://WOS:000430364900025},
+   year = {2018},
+   type = {Journal Article}
+}
+
+@article{RN1002,
+   author = {Buchta, D. A. and Shallcross, G. and Capecelatro, J.},
+   title = {Sound and turbulence modulation by particles in high-speed shear flows},
+   journal = {Journal of Fluid Mechanics},
+   volume = {875},
+   pages = {254-285},
+   ISSN = {0022-1120},
+   DOI = {PII S0022112019004671
+10.1017/jfm.2019.467},
+   url = {<Go to ISI>://WOS:000475893000001},
+   year = {2019},
+   type = {Journal Article}
+}
+
+@article{RN1129,
+   author = {Bywater-Reyes, S. and Bladon, K. D. and Segura, C.},
+   title = {Relative Influence of Landscape Variables and Discharge on Suspended Sediment Yields in Temperate Mountain Catchments},
+   journal = {Water Resources Research},
+   volume = {54},
+   number = {7},
+   pages = {5126-5142},
+   ISSN = {0043-1397},
+   DOI = {10.1029/2017wr021728},
+   url = {<Go to ISI>://WOS:000442502100053},
+   year = {2018},
+   type = {Journal Article}
+}
+
+@article{RN973,
+   author = {Carbone, M. and Bragg, A. D. and Iovieno, M.},
+   title = {Multiscale fluid-particle thermal interaction in isotropic turbulence},
+   journal = {Journal of Fluid Mechanics},
+   volume = {881},
+   pages = {679-721},
+   ISSN = {0022-1120},
+   DOI = {10.1017/jfm.2019.773},
+   url = {<Go to ISI>://WOS:000506237100026},
+   year = {2019},
+   type = {Journal Article}
+}
+
+@article{RN1122,
+   author = {Carter, E. and Steinschneider, S.},
+   title = {Hydroclimatological Drivers of Extreme Floods on Lake Ontario},
+   journal = {Water Resources Research},
+   volume = {54},
+   number = {7},
+   pages = {4461-4478},
+   ISSN = {0043-1397},
+   DOI = {10.1029/2018wr022908},
+   url = {<Go to ISI>://WOS:000442502100017},
+   year = {2018},
+   type = {Journal Article}
+}
+
+@article{RN1086,
+   author = {Cea, L. and Fraga, I.},
+   title = {Incorporating Antecedent Moisture Conditions and Intraevent Variability of Rainfall on Flood Frequency Analysis in Poorly Gauged Basins},
+   journal = {Water Resources Research},
+   volume = {54},
+   number = {11},
+   pages = {8774-8791},
+   ISSN = {0043-1397},
+   DOI = {10.1029/2018wr023194},
+   url = {<Go to ISI>://WOS:000453369400013},
+   year = {2018},
+   type = {Journal Article}
+}
+
+@article{RN1112,
+   author = {Chagas, V. B. P. and Chaffe, P. L. B.},
+   title = {The Role of Land Cover in the Propagation of Rainfall Into Streamflow Trends},
+   journal = {Water Resources Research},
+   volume = {54},
+   number = {9},
+   pages = {5986-6004},
+   ISSN = {0043-1397},
+   DOI = {10.1029/2018wr022947},
+   url = {<Go to ISI>://WOS:000448088100009},
+   year = {2018},
+   type = {Journal Article}
+}
+
+@article{RN1027,
+   author = {Chen, C. H. and Donzis, D. A.},
+   title = {Shock-turbulence interactions at high turbulence intensities},
+   journal = {Journal of Fluid Mechanics},
+   volume = {870},
+   pages = {813-847},
+   ISSN = {0022-1120},
+   DOI = {PII S0022112019002489
+10.1017/jfm.2019.248},
+   url = {<Go to ISI>://WOS:000467920800001},
+   year = {2019},
+   type = {Journal Article}
+}
+
+@article{RN986,
+   author = {Chen, K. Y. and Wan, M. P. and Wang, L. P. and Chen, S. Y.},
+   title = {Subgrid-scale structure and fluxes of turbulence underneath a surface wave},
+   journal = {Journal of Fluid Mechanics},
+   volume = {878},
+   pages = {768-795},
+   ISSN = {0022-1120},
+   DOI = {10.1017/jfm.2019.658},
+   url = {<Go to ISI>://WOS:000486504200001},
+   year = {2019},
+   type = {Journal Article}
+}
+
+@article{RN1021,
+   author = {Chen, X. and Hussain, F. and She, Z. S.},
+   title = {Non-universal scaling transition of momentum cascade in wall turbulence},
+   journal = {Journal of Fluid Mechanics},
+   volume = {871},
+   ISSN = {0022-1120},
+   DOI = {ARTN R2
+10.1017/jfm.2019.309},
+   url = {<Go to ISI>://WOS:000493076400001},
+   year = {2019},
+   type = {Journal Article}
+}
+
+@article{RN1041,
+   author = {Cimarelli, A. and Abba, A. and Germano, M.},
+   title = {General formalism for a reduced description and modelling of momentum and energy transfer in turbulence},
+   journal = {Journal of Fluid Mechanics},
+   volume = {866},
+   pages = {865-896},
+   ISSN = {0022-1120},
+   DOI = {10.1017/jfm.2019.124},
+   url = {<Go to ISI>://WOS:000462632600008},
+   year = {2019},
+   type = {Journal Article}
+}
+
+@article{RN1094,
+   author = {Collet, L. and Beevers, L. and Stewart, M. D.},
+   title = {Decision-Making and Flood Risk Uncertainty: Statistical Data Set Analysis for Flood Risk Assessment},
+   journal = {Water Resources Research},
+   volume = {54},
+   number = {10},
+   pages = {7291-7308},
+   ISSN = {0043-1397},
+   DOI = {10.1029/2017wr022024},
+   url = {<Go to ISI>://WOS:000450726000011},
+   year = {2018},
+   type = {Journal Article}
+}
+
+@article{RN1106,
+   author = {Davidson, S. L. and Eaton, B. C.},
+   title = {Beyond Regime: A Stochastic Model of Floods, Bank Erosion, and Channel Migration},
+   journal = {Water Resources Research},
+   volume = {54},
+   number = {9},
+   pages = {6282-6298},
+   ISSN = {0043-1397},
+   DOI = {10.1029/2017wr022059},
+   url = {<Go to ISI>://WOS:000448088100027},
+   year = {2018},
+   type = {Journal Article}
+}
+
+@article{RN989,
+   author = {Dawson, S. T. M. and McKeon, B. J.},
+   title = {On the shape of resolvent modes in wall-bounded turbulence},
+   journal = {Journal of Fluid Mechanics},
+   volume = {877},
+   pages = {682-716},
+   ISSN = {0022-1120},
+   DOI = {10.1017/jfm.2019.594},
+   url = {<Go to ISI>://WOS:000485198400004},
+   year = {2019},
+   type = {Journal Article}
+}
+
+@article{RN1063,
+   author = {Deng, B. Q. and Yang, Z. X. and Xuan, A. Q. and Shen, L.},
+   title = {Influence of Langmuir circulations on turbulence in the bottom boundary layer of shallow water},
+   journal = {Journal of Fluid Mechanics},
+   volume = {861},
+   pages = {275-308},
+   ISSN = {0022-1120},
+   DOI = {10.1017/jfm.2018.883},
+   url = {<Go to ISI>://WOS:000454172000001},
+   year = {2019},
+   type = {Journal Article}
+}
+
+@article{RN1049,
+   author = {Djenidi, L. and Antonia, R. A. and Tang, S. L.},
+   title = {Scale invariance in finite Reynolds number homogeneous isotropic turbulence},
+   journal = {Journal of Fluid Mechanics},
+   volume = {864},
+   pages = {244-272},
+   ISSN = {0022-1120},
+   DOI = {10.1017/jfm.2019.28},
+   url = {<Go to ISI>://WOS:000458517600001},
+   year = {2019},
+   type = {Journal Article}
+}
+
+@article{RN1013,
+   author = {Doohan, P. and Willis, A. P. and Hwang, Y. Y.},
+   title = {Shear stress-driven flow: the state space of near-wall turbulence as Re-tau -> infinity},
+   journal = {Journal of Fluid Mechanics},
+   volume = {874},
+   pages = {606-638},
+   ISSN = {0022-1120},
+   DOI = {PII S0022112019004725
+10.1017/jfm.2019.472},
+   url = {<Go to ISI>://WOS:000475349500001},
+   year = {2019},
+   type = {Journal Article}
+}
+
+@article{RN978,
+   author = {Ebadi, A. and White, C. M. and Pond, I. and Dubief, Y.},
+   title = {Mean dynamics and transition to turbulence in oscillatory channel flow},
+   journal = {Journal of Fluid Mechanics},
+   volume = {880},
+   pages = {864-889},
+   ISSN = {0022-1120},
+   DOI = {10.1017/jfm.2019.706},
+   url = {<Go to ISI>://WOS:000506235800031},
+   year = {2019},
+   type = {Journal Article}
+}
+
+@article{RN1040,
+   author = {Elsinga, G. E. and da Silva, C. B.},
+   title = {How the turbulent/non-turbulent interface is different from internal turbulence},
+   journal = {Journal of Fluid Mechanics},
+   volume = {866},
+   pages = {216-238},
+   ISSN = {0022-1120},
+   DOI = {ARTN 055103
+10.1017/jfm.2019.85},
+   url = {<Go to ISI>://WOS:000460284600001},
+   year = {2019},
+   type = {Journal Article}
+}
+
+@article{RN1079,
+   author = {Eltner, A. and Elias, M. and Sardemann, H. and Spieler, D.},
+   title = {Automatic Image-Based Water Stage Measurement for Long-Term Observations in Ungauged Catchments},
+   journal = {Water Resources Research},
+   volume = {54},
+   number = {12},
+   pages = {10362-10371},
+   ISSN = {0043-1397},
+   DOI = {10.1029/2018wr023913},
+   url = {<Go to ISI>://WOS:000456949300020},
+   year = {2018},
+   type = {Journal Article}
+}
+
+@article{RN1066,
+   author = {Esteban, L. B. and Shrimpton, J. S. and Ganapathisubramani, B.},
+   title = {Laboratory experiments on the temporal decay of homogeneous anisotropic turbulence},
+   journal = {Journal of Fluid Mechanics},
+   volume = {862},
+   pages = {99-127},
+   ISSN = {0022-1120},
+   DOI = {10.1017/jfm.2018.964},
+   url = {<Go to ISI>://WOS:000455016700002},
+   year = {2019},
+   type = {Journal Article}
+}
+
+@article{RN972,
+   author = {Ezeta, R. and Bakhuis, D. and Huisman, S. G. and Sun, C. and Lohse, D.},
+   title = {Drag reduction in boiling Taylor-Couette turbulence},
+   journal = {Journal of Fluid Mechanics},
+   volume = {881},
+   pages = {104-118},
+   ISSN = {0022-1120},
+   DOI = {10.1017/jfm.2019.758},
+   url = {<Go to ISI>://WOS:000506237100006},
+   year = {2019},
+   type = {Journal Article}
+}
+
+@article{RN1058,
+   author = {Fairhall, C. T. and Abderrahaman-Elena, N. and Garcia-Mayoral, R.},
+   title = {The effect of slip and surface texture on turbulence over superhydrophobic surfaces},
+   journal = {Journal of Fluid Mechanics},
+   volume = {861},
+   pages = {88-118},
+   ISSN = {0022-1120},
+   DOI = {10.1017/jfm.2018.909},
+   url = {<Go to ISI>://WOS:000454168900001},
+   year = {2019},
+   type = {Journal Article}
+}
+
+@article{RN1133,
+   author = {Farnham, D. J. and Doss-Gollin, J. and Lall, U.},
+   title = {Regional Extreme Precipitation Events: Robust Inference From Credibly Simulated GCM Variables},
+   journal = {Water Resources Research},
+   volume = {54},
+   number = {6},
+   pages = {3809-3824},
+   ISSN = {0043-1397},
+   DOI = {10.1002/2017wr021318},
+   url = {<Go to ISI>://WOS:000440309900003},
+   year = {2018},
+   type = {Journal Article}
+}
+
+@article{RN1121,
+   author = {Fereshtehpour, M. and Karamouz, M.},
+   title = {DEM Resolution Effects on Coastal Flood Vulnerability Assessment: Deterministic and Probabilistic Approach},
+   journal = {Water Resources Research},
+   volume = {54},
+   number = {7},
+   pages = {4965-4982},
+   ISSN = {0043-1397},
+   DOI = {10.1029/2017wr022318},
+   url = {<Go to ISI>://WOS:000442502100044},
+   year = {2018},
+   type = {Journal Article}
+}
+
+@article{RN1052,
+   author = {Fitzgerald, J. G. and Farrell, B. F.},
+   title = {Statistical state dynamics analysis of buoyancy layer formation via the Phillips mechanism in two-dimensional stratified turbulence},
+   journal = {Journal of Fluid Mechanics},
+   volume = {864},
+   ISSN = {0022-1120},
+   DOI = {ARTN R3
+PII S0022112019000727
+10.1017/jfm.2019.72},
+   url = {<Go to ISI>://WOS:000458485400001},
+   year = {2019},
+   type = {Journal Article}
+}
+
+@article{RN1150,
+   author = {Formetta, G. and Bell, V. and Stewart, E.},
+   title = {Use of Flood Seasonality in Pooling-Group Formation and Quantile Estimation: An Application in Great Britain},
+   journal = {Water Resources Research},
+   volume = {54},
+   number = {2},
+   pages = {1127-1145},
+   ISSN = {0043-1397},
+   DOI = {10.1002/2017wr021623},
+   url = {<Go to ISI>://WOS:000428474500026},
+   year = {2018},
+   type = {Journal Article}
+}
+
+@article{RN1069,
+   author = {Frederiksen, J. S. and O'Kane, T. J.},
+   title = {Markovian inhomogeneous closures for Rossbywaves and turbulence over topography},
+   journal = {Journal of Fluid Mechanics},
+   volume = {858},
+   pages = {45-70},
+   ISSN = {0022-1120},
+   DOI = {10.1017/jfm.2018.784},
+   url = {<Go to ISI>://WOS:000449050700003},
+   year = {2019},
+   type = {Journal Article}
+}
+
+@article{RN999,
+   author = {Freund, A. and Ferrante, A.},
+   title = {Wavelet-spectral analysis of droplet-laden isotropic turbulence},
+   journal = {Journal of Fluid Mechanics},
+   volume = {875},
+   pages = {914-928},
+   ISSN = {0022-1120},
+   DOI = {10.1017/jfm.2019.515},
+   url = {<Go to ISI>://WOS:000477616800001},
+   year = {2019},
+   type = {Journal Article}
+}
+
+@article{RN1055,
+   author = {Freund, J. B.},
+   title = {Nozzles, turbulence, and jet noise prediction},
+   journal = {Journal of Fluid Mechanics},
+   volume = {860},
+   ISSN = {0022-1120},
+   DOI = {10.1017/jfm.2018.823},
+   url = {<Go to ISI>://WOS:000451517300001},
+   year = {2019},
+   type = {Journal Article}
+}
+
+@article{RN1117,
+   author = {Fries, K. J. and Kerkez, B.},
+   title = {Using Sensor Data to Dynamically Map Large-Scale Models to Site-Scale Forecasts: A Case Study Using the National Water Model},
+   journal = {Water Resources Research},
+   volume = {54},
+   number = {8},
+   pages = {5636-5653},
+   ISSN = {0043-1397},
+   DOI = {10.1029/2017wr022498},
+   url = {<Go to ISI>://WOS:000445451800027},
+   year = {2018},
+   type = {Journal Article}
+}
+
+@article{RN1130,
+   author = {Gangrade, S. and Kao, S. C. and Naz, B. S. and Rastogi, D. and Ashfaq, M. and Singh, N. and Preston, B. L.},
+   title = {Sensitivity of Probable Maximum Flood in a Changing Environment},
+   journal = {Water Resources Research},
+   volume = {54},
+   number = {6},
+   pages = {3913-3936},
+   ISSN = {0043-1397},
+   DOI = {10.1029/2017wr021987},
+   url = {<Go to ISI>://WOS:000440309900010},
+   year = {2018},
+   type = {Journal Article}
+}
+
+@article{RN1037,
+   author = {Garanaik, A. and Venayagamoorthy, S. K.},
+   title = {On the inference of the state of turbulence and mixing efficiency in stably stratified flows},
+   journal = {Journal of Fluid Mechanics},
+   volume = {867},
+   pages = {323-333},
+   ISSN = {0022-1120},
+   DOI = {10.1017/jfm.2019.142},
+   url = {<Go to ISI>://WOS:000462072100001},
+   year = {2019},
+   type = {Journal Article}
+}
+
+@article{RN987,
+   author = {Garcia, B. F. and Weymouth, G. D. and Nguyen, V. T. and Tutty, O. R.},
+   title = {Span effect on the turbulence nature of flow past a circular cylinder},
+   journal = {Journal of Fluid Mechanics},
+   volume = {878},
+   pages = {306-323},
+   ISSN = {0022-1120},
+   DOI = {10.1017/jfm.2019.637},
+   url = {<Go to ISI>://WOS:000484940500001},
+   year = {2019},
+   type = {Journal Article}
+}
+
+@article{RN1090,
+   author = {Giovannettone, J. and Copenhaver, T. and Burns, M. and Choquette, S.},
+   title = {A Statistical Approach to Mapping Flood Susceptibility in the Lower Connecticut River Valley Region},
+   journal = {Water Resources Research},
+   volume = {54},
+   number = {10},
+   pages = {7603-7618},
+   ISSN = {0043-1397},
+   DOI = {10.1029/2018wr023018},
+   url = {<Go to ISI>://WOS:000450726000027},
+   year = {2018},
+   type = {Journal Article}
+}
+
+@article{RN1151,
+   author = {Grimaldi, S. and Li, Y. and Walker, J. P. and Pauwels, V. R. N.},
+   title = {Effective Representation of River Geometry in Hydraulic Flood Forecast Models},
+   journal = {Water Resources Research},
+   volume = {54},
+   number = {2},
+   pages = {1031-1057},
+   ISSN = {0043-1397},
+   DOI = {10.1002/2017wr021765},
+   url = {<Go to ISI>://WOS:000428474500021},
+   year = {2018},
+   type = {Journal Article}
+}
+
+@article{RN988,
+   author = {Guha, A. and Rahmani, M.},
+   title = {Predicting vortex merging and ensuing turbulence characteristics in shear layers from initial conditions},
+   journal = {Journal of Fluid Mechanics},
+   volume = {878},
+   ISSN = {0022-1120},
+   DOI = {ARTN R4
+PII S0022112019007213
+10.1017/jfm.2019.721},
+   url = {<Go to ISI>://WOS:000486153900001},
+   year = {2019},
+   type = {Journal Article}
+}
+
+@article{RN1030,
+   author = {Gupta, A. and Vincenzi, D.},
+   title = {Effect of polymer-stress diffusion in the numerical simulation of elastic turbulence},
+   journal = {Journal of Fluid Mechanics},
+   volume = {870},
+   pages = {405-418},
+   ISSN = {0022-1120},
+   DOI = {10.1017/jfm.2019.224},
+   url = {<Go to ISI>://WOS:000467553600001},
+   year = {2019},
+   type = {Journal Article}
+}
+
+@article{RN1042,
+   author = {Hameduddin, I. and Zaki, T. A.},
+   title = {The mean conformation tensor in viscoelastic turbulence},
+   journal = {Journal of Fluid Mechanics},
+   volume = {865},
+   pages = {363-380},
+   ISSN = {0022-1120},
+   DOI = {10.1017/jfm.2019.46},
+   url = {<Go to ISI>://WOS:000460815000004},
+   year = {2019},
+   type = {Journal Article}
+}
+
+@article{RN1093,
+   author = {Hawker, L. and Rougier, J. and Neal, J. and Bates, P. and Archer, L. and Yamazaki, D.},
+   title = {Implications of Simulating Global Digital Elevation Models for Flood Inundation Studies},
+   journal = {Water Resources Research},
+   volume = {54},
+   number = {10},
+   pages = {7910-7928},
+   ISSN = {0043-1397},
+   DOI = {10.1029/2018wr023279},
+   url = {<Go to ISI>://WOS:000450726000043},
+   year = {2018},
+   type = {Journal Article}
+}
+
+@article{RN1014,
+   author = {He, X. L. and Apte, S. V. and Finn, J. R. and Wood, B. D.},
+   title = {Characteristics of turbulence in a face-centred cubic porous unit cell},
+   journal = {Journal of Fluid Mechanics},
+   volume = {873},
+   pages = {608-645},
+   ISSN = {0022-1120},
+   DOI = {PII S0022112019004038
+10.1017/jfm.2019.403},
+   url = {<Go to ISI>://WOS:000472727600001},
+   year = {2019},
+   type = {Journal Article}
+}
+
+@article{RN1005,
+   author = {Hendrickson, K. and Yue, D. K. P.},
+   title = {Wake behind a three-dimensional dry transom stern. Part 2. Analysis and modelling of incompressible highly variable density turbulence},
+   journal = {Journal of Fluid Mechanics},
+   volume = {875},
+   pages = {884-913},
+   ISSN = {0022-1120},
+   DOI = {10.1017/jfm.2019.506},
+   url = {<Go to ISI>://WOS:000477618100001},
+   year = {2019},
+   type = {Journal Article}
+}
+
+@article{RN1060,
+   author = {Herlina, H. and Wissink, J. G.},
+   title = {Simulation of air-water interfacial mass transfer driven by high-intensity isotropic turbulence},
+   journal = {Journal of Fluid Mechanics},
+   volume = {860},
+   pages = {419-440},
+   ISSN = {0022-1120},
+   DOI = {10.1017/jfm.2018.884},
+   url = {<Go to ISI>://WOS:000452739400003},
+   year = {2019},
+   type = {Journal Article}
+}
+
+@article{RN1149,
+   author = {Hoge, M. and Wohling, T. and Nowak, W.},
+   title = {A Primer for Model Selection: The Decisive Role of Model Complexity},
+   journal = {Water Resources Research},
+   volume = {54},
+   number = {3},
+   pages = {1688-1715},
+   ISSN = {0043-1397},
+   DOI = {10.1002/2017wr021902},
+   url = {<Go to ISI>://WOS:000430364900016},
+   year = {2018},
+   type = {Journal Article}
+}
+
+@article{RN1074,
+   author = {Hosseinverdi, S. and Fasel, H. F.},
+   title = {Numerical investigation of laminar-turbulent transition in laminar separation bubbles: the effect of free-stream turbulence},
+   journal = {Journal of Fluid Mechanics},
+   volume = {858},
+   pages = {714-759},
+   ISSN = {0022-1120},
+   DOI = {10.1017/jfm.2018.809},
+   url = {<Go to ISI>://WOS:000450071700001},
+   year = {2019},
+   type = {Journal Article}
+}
+
+@article{RN1115,
+   author = {Hostache, R. and Chini, M. and Giustarini, L. and Neal, J. and Kavetski, D. and Wood, M. and Corato, G. and Pelich, R. M. and Matgen, P.},
+   title = {Near-Real-Time Assimilation of SAR-Derived Flood Maps for Improving Flood Forecasts},
+   journal = {Water Resources Research},
+   volume = {54},
+   number = {8},
+   pages = {5516-5535},
+   ISSN = {0043-1397},
+   DOI = {10.1029/2017wr022205},
+   url = {<Go to ISI>://WOS:000445451800020},
+   year = {2018},
+   type = {Journal Article}
+}
+
+@article{RN1118,
+   author = {Hwang, T. and Martin, K. L. and Vose, J. M. and Wear, D. and Miles, B. and Kim, Y. and Band, L. E.},
+   title = {Nonstationary Hydrologic Behavior in Forested Watersheds Is Mediated by Climate-Induced Changes in Growing Season Length and Subsequent Vegetation Growth},
+   journal = {Water Resources Research},
+   volume = {54},
+   number = {8},
+   pages = {5359-5375},
+   ISSN = {0043-1397},
+   DOI = {10.1029/2017wr022279},
+   url = {<Go to ISI>://WOS:000445451800011},
+   year = {2018},
+   type = {Journal Article}
+}
+
+@article{RN1108,
+   author = {Iliopoulou, T. and Koutsoyiannis, D. and Montanari, A.},
+   title = {Characterizing and Modeling Seasonality in Extreme Rainfall},
+   journal = {Water Resources Research},
+   volume = {54},
+   number = {9},
+   pages = {6242-6258},
+   ISSN = {0043-1397},
+   DOI = {10.1029/2018wr023360},
+   url = {<Go to ISI>://WOS:000448088100025},
+   year = {2018},
+   type = {Journal Article}
+}
+
+@article{RN1031,
+   author = {Kafiabad, H. A. and Savva, M. A. C. and Vanneste, J.},
+   title = {Diffusion of inertia-gravity waves by geostrophic turbulence},
+   journal = {Journal of Fluid Mechanics},
+   volume = {869},
+   ISSN = {0022-1120},
+   DOI = {ARTN R7
+10.1017/jfm.2019.300},
+   url = {<Go to ISI>://WOS:000466345400001},
+   year = {2019},
+   type = {Journal Article}
+}
+
+@article{RN1064,
+   author = {Kaminski, A. K. and Smyth, W. D.},
+   title = {Stratified shear instability in a field of pre-existing turbulence},
+   journal = {Journal of Fluid Mechanics},
+   volume = {862},
+   pages = {639-658},
+   ISSN = {0022-1120},
+   DOI = {10.1017/jfm.2018.973},
+   url = {<Go to ISI>://WOS:000455580400003},
+   year = {2019},
+   type = {Journal Article}
+}
+
+@article{RN1081,
+   author = {Kampf, S. K. and Faulconer, J. and Shaw, J. R. and Lefsky, M. and Wagenbrenner, J. W. and Cooper, D. J.},
+   title = {Rainfall Thresholds for Flow Generation in Desert Ephemeral Streams},
+   journal = {Water Resources Research},
+   volume = {54},
+   number = {12},
+   pages = {9935-9950},
+   ISSN = {0043-1397},
+   DOI = {10.1029/2018wr023714},
+   url = {<Go to ISI>://WOS:000456949300033},
+   year = {2018},
+   type = {Journal Article}
+}
+
+@article{RN1012,
+   author = {Karchniwy, E. and Klimanek, A. and Haugen, N. E. L.},
+   title = {The effect of turbulence on mass transfer rates between inertial polydisperse particles and fluid},
+   journal = {Journal of Fluid Mechanics},
+   volume = {874},
+   pages = {1147-1168},
+   ISSN = {0022-1120},
+   DOI = {PII S0022112019004932
+10.1017/jfm.2019.493},
+   url = {<Go to ISI>://WOS:000475481200001},
+   year = {2019},
+   type = {Journal Article}
+}
+
+@article{RN990,
+   author = {Kasbaoui, M. H. and Koch, D. L. and Desjardins, O.},
+   title = {The rapid distortion of two-way coupled particle-laden turbulence},
+   journal = {Journal of Fluid Mechanics},
+   volume = {877},
+   pages = {82-104},
+   ISSN = {0022-1120},
+   DOI = {10.1017/jfm.2019.568},
+   url = {<Go to ISI>://WOS:000485194000001},
+   year = {2019},
+   type = {Journal Article}
+}
+
+@article{RN974,
+   author = {Keylock, C. J.},
+   title = {Turbulence at the Lee bound: maximally non-normal vortex filaments and the decay of a local dissipation rate},
+   journal = {Journal of Fluid Mechanics},
+   volume = {881},
+   pages = {283-312},
+   ISSN = {0022-1120},
+   DOI = {10.1017/jfm.2019.779},
+   url = {<Go to ISI>://WOS:000506237100012},
+   year = {2019},
+   type = {Journal Article}
+}
+
+@article{RN1102,
+   author = {Kiang, J. E. and Gazoorian, C. and McMillan, H. and Coxon, G. and Le Coz, J. and Westerberg, I. K. and Belleville, A. and Sevrez, D. and Sikorska, A. E. and Petersen-Overleir, A. and Reitan, T. and Freer, J. and Renard, B. and Mansanarez, V. and Mason, R.},
+   title = {A Comparison of Methods for Streamflow Uncertainty Estimation},
+   journal = {Water Resources Research},
+   volume = {54},
+   number = {10},
+   pages = {7149-7176},
+   ISSN = {0043-1397},
+   DOI = {10.1029/2018wr022708},
+   url = {<Go to ISI>://WOS:000450726000004},
+   year = {2018},
+   type = {Journal Article}
+}
+
+@article{RN1141,
+   author = {Kind, J. M. and Baayen, J. H. and Botzen, W. J. W.},
+   title = {Benefits and Limitations of Real Options Analysis for the Practice of River Flood Risk Management},
+   journal = {Water Resources Research},
+   volume = {54},
+   number = {4},
+   pages = {3018-3036},
+   ISSN = {0043-1397},
+   DOI = {10.1002/2017wr022402},
+   url = {<Go to ISI>://WOS:000434186400029},
+   year = {2018},
+   type = {Journal Article}
+}
+
+@article{RN1114,
+   author = {Kokkonen, T. V. and Grimmond, C. S. B. and Christen, A. and Oke, T. R. and Jarvi, L.},
+   title = {Changes to the Water Balance Over a Century of Urban Development in Two Neighborhoods: Vancouver, Canada},
+   journal = {Water Resources Research},
+   volume = {54},
+   number = {9},
+   pages = {6625-6642},
+   ISSN = {0043-1397},
+   DOI = {10.1029/2017wr022445},
+   url = {<Go to ISI>://WOS:000448088100044},
+   year = {2018},
+   type = {Journal Article}
+}
+
+@article{RN1061,
+   author = {Kops, S. M. D. and Riley, J. J.},
+   title = {The effects of stable stratification on the decay of initially isotropic homogeneous turbulence},
+   journal = {Journal of Fluid Mechanics},
+   volume = {860},
+   pages = {787-821},
+   ISSN = {0022-1120},
+   DOI = {10.1017/jfm.2018.888},
+   url = {<Go to ISI>://WOS:000453466400001},
+   year = {2019},
+   type = {Journal Article}
+}
+
+@article{RN1053,
+   author = {Kuwata, Y. and Kawaguchi, Y.},
+   title = {Direct numerical simulation of turbulence over systematically varied irregular rough surfaces},
+   journal = {Journal of Fluid Mechanics},
+   volume = {862},
+   pages = {781-815},
+   ISSN = {0022-1120},
+   DOI = {10.1017/jfm.2018.953},
+   url = {<Go to ISI>://WOS:000458542500001},
+   year = {2019},
+   type = {Journal Article}
+}
+
+@article{RN1023,
+   author = {Lai, A. C. H. and Law, A. W. K. and Adams, E. E.},
+   title = {A second-order integral model for buoyant jets with background homogeneous and isotropic turbulence},
+   journal = {Journal of Fluid Mechanics},
+   volume = {871},
+   pages = {271-304},
+   ISSN = {0022-1120},
+   DOI = {PII S0022112019002696
+10.1017/jfm.2019.269},
+   url = {<Go to ISI>://WOS:000470301500001},
+   year = {2019},
+   type = {Journal Article}
+}
+
+@article{RN1146,
+   author = {Le, P. D. and Leonard, M. and Westra, S.},
+   title = {Modeling Spatial Dependence of Rainfall Extremes Across Multiple Durations},
+   journal = {Water Resources Research},
+   volume = {54},
+   number = {3},
+   pages = {2233-2248},
+   ISSN = {0043-1397},
+   DOI = {10.1002/2017wr022231},
+   url = {<Go to ISI>://WOS:000430364900045},
+   year = {2018},
+   type = {Journal Article}
+}
+
+@article{RN981,
+   author = {Le Reun, T. and Favier, B. and Le Bars, M.},
+   title = {Experimental study of the nonlinear saturation of the elliptical instability: inertial wave turbulence versus geostrophic turbulence},
+   journal = {Journal of Fluid Mechanics},
+   volume = {879},
+   pages = {296-326},
+   ISSN = {0022-1120},
+   DOI = {PII S0022112019006463
+10.1017/jfm.2019.646},
+   url = {<Go to ISI>://WOS:000487971600001},
+   year = {2019},
+   type = {Journal Article}
+}
+
+@article{RN1152,
+   author = {Lee, D. and Ward, P. and Block, P.},
+   title = {Attribution of Large-Scale Climate Patterns to Seasonal Peak-Flow and Prospects for Prediction Globally},
+   journal = {Water Resources Research},
+   volume = {54},
+   number = {2},
+   pages = {916-938},
+   ISSN = {0043-1397},
+   DOI = {10.1002/2017wr021205},
+   url = {<Go to ISI>://WOS:000428474500015},
+   year = {2018},
+   type = {Journal Article}
+}
+
+@article{RN1136,
+   author = {Lee, J. and Ghorbanidehno, H. and Farthing, M. W. and Hesser, T. J. and Darve, E. F. and Kitanidis, P. K.},
+   title = {Riverine Bathymetry Imaging With Indirect Observations},
+   journal = {Water Resources Research},
+   volume = {54},
+   number = {5},
+   pages = {3704-3727},
+   ISSN = {0043-1397},
+   DOI = {10.1029/2017wr021649},
+   url = {<Go to ISI>://WOS:000442351300025},
+   year = {2018},
+   type = {Journal Article}
+}
+
+@article{RN1015,
+   author = {Lee, J. and Lee, C.},
+   title = {The effect of wall-normal gravity on particle-laden near-wall turbulence},
+   journal = {Journal of Fluid Mechanics},
+   volume = {873},
+   pages = {475-507},
+   ISSN = {0022-1120},
+   DOI = {PII S0022112019004002
+10.1017/jfm.2019.400},
+   url = {<Go to ISI>://WOS:000472726100001},
+   year = {2019},
+   type = {Journal Article}
+}
+
+@article{RN1140,
+   author = {Leong, C.},
+   title = {The Role of Narratives in Sociohydrological Models of Flood Behaviors},
+   journal = {Water Resources Research},
+   volume = {54},
+   number = {4},
+   pages = {3100-3121},
+   ISSN = {0043-1397},
+   DOI = {10.1002/2017wr022036},
+   url = {<Go to ISI>://WOS:000434186400033},
+   year = {2018},
+   type = {Journal Article}
+}
+
+@article{RN1144,
+   author = {Liang, X. Y. and Zhan, H. B. and Schilling, K.},
+   title = {Spatiotemporal Responses of Groundwater Flow and Aquifer-River Exchanges to Flood Events},
+   journal = {Water Resources Research},
+   volume = {54},
+   number = {3},
+   pages = {1513-1532},
+   ISSN = {0043-1397},
+   DOI = {10.1002/2017wr022046},
+   url = {<Go to ISI>://WOS:000430364900006},
+   year = {2018},
+   type = {Journal Article}
+}
+
+@article{RN1113,
+   author = {Lin, Q. Y. and Bijeljic, B. and Pini, R. and Blunt, M. J. and Krevor, S.},
+   title = {Imaging and Measurement of Pore-Scale Interfacial Curvature to Determine Capillary Pressure Simultaneously With Relative Permeability},
+   journal = {Water Resources Research},
+   volume = {54},
+   number = {9},
+   pages = {7046-7060},
+   ISSN = {0043-1397},
+   DOI = {10.1029/2018wr023214},
+   url = {<Go to ISI>://WOS:000448088100066},
+   year = {2018},
+   type = {Journal Article}
+}
+
+@article{RN1008,
+   author = {Lindborg, E.},
+   title = {A note on acoustic turbulence},
+   journal = {Journal of Fluid Mechanics},
+   volume = {874},
+   ISSN = {0022-1120},
+   DOI = {ARTN R2
+PII S0022112019005238
+10.1017/jfm.2019.523},
+   url = {<Go to ISI>://WOS:000475907700001},
+   year = {2019},
+   type = {Journal Article}
+}
+
+@article{RN1075,
+   author = {Ling, Y. and Fuster, D. and Tryggvason, G. and Zaleski, S.},
+   title = {A two-phase mixing layer between parallel gas and liquid streams: multiphase turbulence statistics and influence of interfacial instability},
+   journal = {Journal of Fluid Mechanics},
+   volume = {859},
+   pages = {268-307},
+   ISSN = {0022-1120},
+   DOI = {10.1017/jfm.2018.825},
+   url = {<Go to ISI>://WOS:000450425600010},
+   year = {2019},
+   type = {Journal Article}
+}
+
+@article{RN1139,
+   author = {Liu, Z. Y. and Cheng, L. Y. and Hao, Z. C. and Li, J. J. and Thorstensen, A. and Gao, H. K.},
+   title = {A Framework for Exploring Joint Effects of Conditional Factors on Compound Floods},
+   journal = {Water Resources Research},
+   volume = {54},
+   number = {4},
+   pages = {2681-2696},
+   ISSN = {0043-1397},
+   DOI = {10.1002/2017wr021662},
+   url = {<Go to ISI>://WOS:000434186400010},
+   year = {2018},
+   type = {Journal Article}
+}
+
+@article{RN1157,
+   author = {Lu, X. H. and Mao, B. and Dong, B. J.},
+   title = {Comment on "An Efficient and Stable Hydrodynamic Model With Novel Source Term Discretization Schemes for Overland Flow and Flood Simulations" by Xilin Xia et al.},
+   journal = {Water Resources Research},
+   volume = {54},
+   number = {1},
+   pages = {621-627},
+   ISSN = {0043-1397},
+   DOI = {10.1002/2017wr021563},
+   url = {<Go to ISI>://WOS:000428474000035},
+   year = {2018},
+   type = {Journal Article}
+}
+
+@article{RN1065,
+   author = {Lustro, J. R. T. and Kawahara, G. and van Veen, L. and Shimizu, M. and Kokubu, H.},
+   title = {The onset of transient turbulence in minimal plane Couette flow},
+   journal = {Journal of Fluid Mechanics},
+   volume = {862},
+   ISSN = {0022-1120},
+   DOI = {ARTN R2
+10.1017/jfm.2018.971},
+   url = {<Go to ISI>://WOS:000455358800001},
+   year = {2019},
+   type = {Journal Article}
+}
+
+@article{RN1092,
+   author = {MacVean, L. J. and Thompson, S. and Hutton, P. and Sivapalan, M.},
+   title = {Reconstructing Early Hydrologic Change in the California Delta and its Watersheds},
+   journal = {Water Resources Research},
+   volume = {54},
+   number = {10},
+   pages = {7767-7790},
+   ISSN = {0043-1397},
+   DOI = {10.1029/2017wr021426},
+   url = {<Go to ISI>://WOS:000450726000036},
+   year = {2018},
+   type = {Journal Article}
+}
+
+@article{RN1028,
+   author = {Maffioli, A.},
+   title = {Asymmetry of vertical buoyancy gradient in stratified turbulence},
+   journal = {Journal of Fluid Mechanics},
+   volume = {870},
+   pages = {266-289},
+   ISSN = {0022-1120},
+   DOI = {PII S0022112019002404
+10.1017/jfm.2019.240},
+   url = {<Go to ISI>://WOS:000467297600001},
+   year = {2019},
+   type = {Journal Article}
+}
+
+@article{RN1107,
+   author = {Martins, R. and Rubinato, M. and Kesserwani, G. and Leandro, J. and Djordjevic, S. and Shucksmith, J. D.},
+   title = {On the Characteristics of Velocities Fields in the Vicinity of Manhole Inlet Grates During Flood Events},
+   journal = {Water Resources Research},
+   volume = {54},
+   number = {9},
+   pages = {6408-6422},
+   ISSN = {0043-1397},
+   DOI = {10.1029/2018wr022782},
+   url = {<Go to ISI>://WOS:000448088100034},
+   year = {2018},
+   type = {Journal Article}
+}
+
+@article{RN1054,
+   author = {Marxen, O. and Zaki, T. A.},
+   title = {Turbulence in intermittent transitional boundary layers and in turbulence spots},
+   journal = {Journal of Fluid Mechanics},
+   volume = {860},
+   pages = {350-383},
+   ISSN = {0022-1120},
+   DOI = {10.1017/jfm.2018.822},
+   url = {<Go to ISI>://WOS:000452313700001},
+   year = {2019},
+   type = {Journal Article}
+}
+
+@article{RN1142,
+   author = {Mason, E. and Giuliani, M. and Castelletti, A. and Amigoni, F.},
+   title = {Identifying and Modeling Dynamic Preference Evolution in Multipurpose Water Resources Systems},
+   journal = {Water Resources Research},
+   volume = {54},
+   number = {4},
+   pages = {3162-3175},
+   ISSN = {0043-1397},
+   DOI = {10.1002/2017wr021431},
+   url = {<Go to ISI>://WOS:000434186400036},
+   year = {2018},
+   type = {Journal Article}
+}
+
+@article{RN1068,
+   author = {Maulik, R. and San, O. and Rasheed, A. and Vedula, P.},
+   title = {Subgrid modelling for two-dimensional turbulence using neural networks},
+   journal = {Journal of Fluid Mechanics},
+   volume = {858},
+   pages = {122-144},
+   ISSN = {0022-1120},
+   DOI = {10.1017/jfm.2018.770},
+   url = {<Go to ISI>://WOS:000449050900002},
+   year = {2019},
+   type = {Journal Article}
+}
+
+@article{RN1127,
+   author = {Michelazzo, G. and Oumeraci, H. and Paris, E.},
+   title = {New Hypothesis for the Final Equilibrium Stage of a River Levee Breach due to Overflow},
+   journal = {Water Resources Research},
+   volume = {54},
+   number = {7},
+   pages = {4277-4293},
+   ISSN = {0043-1397},
+   DOI = {10.1029/2017wr021378},
+   url = {<Go to ISI>://WOS:000442502100005},
+   year = {2018},
+   type = {Journal Article}
+}
+
+@article{RN1095,
+   author = {Milanesi, L. and Pilotti, M. and Belleri, A. and Marini, A. and Fuchs, S.},
+   title = {Vulnerability to Flash Floods: A Simplified Structural Model for Masonry Buildings},
+   journal = {Water Resources Research},
+   volume = {54},
+   number = {10},
+   pages = {7177-7197},
+   ISSN = {0043-1397},
+   DOI = {10.1029/2018wr022577},
+   url = {<Go to ISI>://WOS:000450726000005},
+   year = {2018},
+   type = {Journal Article}
+}
+
+@article{RN1029,
+   author = {Milne, I. A. and Graham, J. M. R.},
+   title = {Turbulence velocity spectra and intensities in the inflow of a turbine rotor},
+   journal = {Journal of Fluid Mechanics},
+   volume = {870},
+   ISSN = {0022-1120},
+   DOI = {ARTN R3
+PII S0022112019003392
+10.1017/jfm.2019.339},
+   url = {<Go to ISI>://WOS:000467921400001},
+   year = {2019},
+   type = {Journal Article}
+}
+
+@article{RN1120,
+   author = {Moftakhari, H. R. and AghaKouchak, A. and Sanders, B. F. and Allaire, M. and Matthew, R. A.},
+   title = {What Is Nuisance Flooding? Defining and Monitoring an Emerging Challenge},
+   journal = {Water Resources Research},
+   volume = {54},
+   number = {7},
+   pages = {4218-4227},
+   ISSN = {0043-1397},
+   DOI = {10.1029/2018wr022828},
+   url = {<Go to ISI>://WOS:000442502100001},
+   year = {2018},
+   type = {Journal Article}
+}
+
+@article{RN1024,
+   author = {Mohaghar, M. and Carter, J. and Pathikonda, G. and Ranjan, D.},
+   title = {The transition to turbulence in shock-driven mixing: effects of Mach number and initial conditions},
+   journal = {Journal of Fluid Mechanics},
+   volume = {871},
+   pages = {595-635},
+   ISSN = {0022-1120},
+   DOI = {10.1017/jfm.2019.330},
+   url = {<Go to ISI>://WOS:000493076600007},
+   year = {2019},
+   type = {Journal Article}
+}
+
+@article{RN1104,
+   author = {Mueller, J. M. and Lima, R. E. and Springer, A. E. and Schiefer, E.},
+   title = {Using Matching Methods to Estimate Impacts of Wildfire and Postwildfire Flooding on House Prices},
+   journal = {Water Resources Research},
+   volume = {54},
+   number = {9},
+   pages = {6189-6201},
+   ISSN = {0043-1397},
+   DOI = {10.1029/2017wr022195},
+   url = {<Go to ISI>://WOS:000448088100022},
+   year = {2018},
+   type = {Journal Article}
+}
+
+@article{RN985,
+   author = {Mukherjee, S. and Safdari, A. and Shardt, O. and Kenjeres, S. and Van den Akker, H. E. A.},
+   title = {Droplet-turbulence interactions and quasi-equilibrium dynamics in turbulent emulsions},
+   journal = {Journal of Fluid Mechanics},
+   volume = {878},
+   pages = {221-276},
+   ISSN = {0022-1120},
+   DOI = {10.1017/jfm.2019.654},
+   url = {<Go to ISI>://WOS:000484936800001},
+   year = {2019},
+   type = {Journal Article}
+}
+
+@article{RN1116,
+   author = {Nakamura, S. and Oki, T.},
+   title = {Paradigm Shifts on Flood Risk Management in Japan: Detecting Triggers of Design Flood Revisions in the Modern Era},
+   journal = {Water Resources Research},
+   volume = {54},
+   number = {8},
+   pages = {5504-5515},
+   ISSN = {0043-1397},
+   DOI = {10.1029/2017wr022509},
+   url = {<Go to ISI>://WOS:000445451800019},
+   year = {2018},
+   type = {Journal Article}
+}
+
+@article{RN1091,
+   author = {Nayak, M. A. and Herman, J. D. and Steinschneider, S.},
+   title = {Balancing Flood Rick and Water Supply in California: Policy Search Integrating Short-Term Forecast Ensembles With Conjunctive Use},
+   journal = {Water Resources Research},
+   volume = {54},
+   number = {10},
+   pages = {7557-7576},
+   ISSN = {0043-1397},
+   DOI = {10.1029/2018wr023177},
+   url = {<Go to ISI>://WOS:000450726000025},
+   year = {2018},
+   type = {Journal Article}
+}
+
+@article{RN1147,
+   author = {Nguyen, H. T. T. and Galelli, S.},
+   title = {A Linear Dynamical Systems Approach to Streamflow Reconstruction Reveals History of Regime Shifts in Northern Thailand},
+   journal = {Water Resources Research},
+   volume = {54},
+   number = {3},
+   pages = {2057-2077},
+   ISSN = {0043-1397},
+   DOI = {10.1002/2017wr022114},
+   url = {<Go to ISI>://WOS:000430364900036},
+   year = {2018},
+   type = {Journal Article}
+}
+
+@article{RN1072,
+   author = {Nivarti, G. V. and Cant, R. S. and Hochgreb, S.},
+   title = {Reconciling turbulent burning velocity with flame surface area in small-scale turbulence},
+   journal = {Journal of Fluid Mechanics},
+   volume = {858},
+   ISSN = {0022-1120},
+   DOI = {ARTN R1
+10.1017/jfm.2018.841},
+   url = {<Go to ISI>://WOS:000449150500001},
+   year = {2019},
+   type = {Journal Article}
+}
+
+@article{RN1010,
+   author = {Okino, S. and Hanazaki, H.},
+   title = {Decaying turbulence in a stratified fluid of high Prandtl number},
+   journal = {Journal of Fluid Mechanics},
+   volume = {874},
+   pages = {821-855},
+   ISSN = {0022-1120},
+   DOI = {PII S0022112019004713
+10.1017/jfm.2019.471},
+   url = {<Go to ISI>://WOS:000475358500001},
+   year = {2019},
+   type = {Journal Article}
+}
+
+@article{RN1111,
+   author = {Panici, D. and de Almeida, G. A. M.},
+   title = {Formation, Growth, and Failure of Debris Jams at Bridge Piers},
+   journal = {Water Resources Research},
+   volume = {54},
+   number = {9},
+   pages = {6226-6241},
+   ISSN = {0043-1397},
+   DOI = {10.1029/2017wr022177},
+   url = {<Go to ISI>://WOS:000448088100024},
+   year = {2018},
+   type = {Journal Article}
+}
+
+@article{RN1019,
+   author = {Parashar, N. and Sinha, S. S. and Srinivasan, B.},
+   title = {Lagrangian investigations of velocity gradients in compressible turbulence: lifetime of flow-field topologies},
+   journal = {Journal of Fluid Mechanics},
+   volume = {872},
+   pages = {492-514},
+   ISSN = {0022-1120},
+   DOI = {10.1017/jfm.2019.308},
+   url = {<Go to ISI>://WOS:000471976000008},
+   year = {2019},
+   type = {Journal Article}
+}
+
+@article{RN1109,
+   author = {Paul, W. L. and Cook, R. A. and Suter, P. J. and Clarke, K. R. and Shackleton, M. E. and McInerney, P. J. and Hawking, J. H.},
+   title = {Long-Term Monitoring of Macroinvertebrate Communities Over 2,300 km of the Murray River Reveals Ecological Signs of Salinity Mitigation Against a Backdrop of Climate Variability},
+   journal = {Water Resources Research},
+   volume = {54},
+   number = {9},
+   pages = {7004-7028},
+   ISSN = {0043-1397},
+   DOI = {10.1029/2018wr022976},
+   url = {<Go to ISI>://WOS:000448088100064},
+   year = {2018},
+   type = {Journal Article}
+}
+
+@article{RN975,
+   author = {Pearson, B. C. and Grant, A. L. M. and Polton, J. A.},
+   title = {Pressure-strain terms in Langmuir turbulence},
+   journal = {Journal of Fluid Mechanics},
+   volume = {880},
+   pages = {5-31},
+   ISSN = {0022-1120},
+   DOI = {10.1017/jfm.2019.701},
+   url = {<Go to ISI>://WOS:000506235800002},
+   year = {2019},
+   type = {Journal Article}
+}
+
+@article{RN992,
+   author = {Pereira, A. S. and Thompson, R. L. and Mompean, G.},
+   title = {Common features between the Newtonian laminar-turbulent transition and the viscoelastic drag-reducing turbulence},
+   journal = {Journal of Fluid Mechanics},
+   volume = {877},
+   pages = {405-428},
+   ISSN = {0022-1120},
+   DOI = {10.1017/jfm.2019.567},
+   url = {<Go to ISI>://WOS:000485198000001},
+   year = {2019},
+   type = {Journal Article}
+}
+
+@article{RN1097,
+   author = {Perez, G. and Mantilla, R. and Krajewski, W. F.},
+   title = {The Influence of Spatial Variability of Width Functions on Regional Peak how Regressions},
+   journal = {Water Resources Research},
+   volume = {54},
+   number = {10},
+   pages = {7651-7669},
+   ISSN = {0043-1397},
+   DOI = {10.1029/2018wr023509},
+   url = {<Go to ISI>://WOS:000450726000030},
+   year = {2018},
+   type = {Journal Article}
+}
+
+@article{RN1126,
+   author = {Peter, S. J. and Siviglia, A. and Nagel, J. and Marelli, S. and Boes, R. M. and Vetsch, D. and Sudret, B.},
+   title = {Development of Probabilistic Dam Breach Model Using Bayesian Inference},
+   journal = {Water Resources Research},
+   volume = {54},
+   number = {7},
+   pages = {4376-4400},
+   ISSN = {0043-1397},
+   DOI = {10.1029/2017wr021176},
+   url = {<Go to ISI>://WOS:000442502100012},
+   year = {2018},
+   type = {Journal Article}
+}
+
+@article{RN1051,
+   author = {Petersen, A. J. and Baker, L. and Coletti, F.},
+   title = {Experimental study of inertial particles clustering and settling in homogeneous turbulence},
+   journal = {Journal of Fluid Mechanics},
+   volume = {864},
+   pages = {925-970},
+   ISSN = {0022-1120},
+   DOI = {10.1017/jfm.2019.31},
+   url = {<Go to ISI>://WOS:000458639100001},
+   year = {2019},
+   type = {Journal Article}
+}
+
+@article{RN996,
+   author = {Petty, D. J. and Pantano, C.},
+   title = {A semi-Lagrangian direct-interaction closure of the spectra of isotropic variable-density turbulence},
+   journal = {Journal of Fluid Mechanics},
+   volume = {876},
+   pages = {186-236},
+   ISSN = {0022-1120},
+   DOI = {PII S0022112019005330
+10.1017/jfm.2019.533},
+   url = {<Go to ISI>://WOS:000477951000001},
+   year = {2019},
+   type = {Journal Article}
+}
+
+@article{RN1134,
+   author = {Piton, G. and Recking, A. and Le Coz, J. and Bellot, H. and Hauet, A. and Jodeau, M.},
+   title = {Reconstructing Depth-Averaged Open-Channel Flows Using Image Velocimetry and Photogrammetry},
+   journal = {Water Resources Research},
+   volume = {54},
+   number = {6},
+   pages = {4164-4179},
+   ISSN = {0043-1397},
+   DOI = {10.1029/2017wr021314},
+   url = {<Go to ISI>://WOS:000440309900022},
+   year = {2018},
+   type = {Journal Article}
+}
+
+@article{RN1131,
+   author = {Pollock, M. D. and O'Donnell, G. and Quinn, P. and Dutton, M. and Black, A. and Wilkinson, M. E. and Colli, M. and Stagnaro, M. and Lanza, L. G. and Lewis, E. and Kilsby, C. G. and O'Connell, P. E.},
+   title = {Quantifying and Mitigating Wind-Induced Undercatch in Rainfall Measurements},
+   journal = {Water Resources Research},
+   volume = {54},
+   number = {6},
+   pages = {3863-3875},
+   ISSN = {0043-1397},
+   DOI = {10.1029/2017wr022421},
+   url = {<Go to ISI>://WOS:000440309900006},
+   year = {2018},
+   type = {Journal Article}
+}
+
+@article{RN1057,
+   author = {Pujara, N. and Voth, G. A. and Variano, E. A.},
+   title = {Scale-dependent alignment, tumbling and stretching of slender rods in isotropic turbulence},
+   journal = {Journal of Fluid Mechanics},
+   volume = {860},
+   pages = {465-486},
+   ISSN = {0022-1120},
+   DOI = {10.1017/jfm.2018.866},
+   url = {<Go to ISI>://WOS:000452739400005},
+   year = {2019},
+   type = {Journal Article}
+}
+
+@article{RN1128,
+   author = {Qin, L. J. and Xu, W. and Tian, Y. G. and Chen, B. and Wang, S. Y.},
+   title = {A River Channel Extraction Method for Urban Environments Based on Terrain Transition Lines},
+   journal = {Water Resources Research},
+   volume = {54},
+   number = {7},
+   pages = {4887-4900},
+   ISSN = {0043-1397},
+   DOI = {10.1029/2018wr023095},
+   url = {<Go to ISI>://WOS:000442502100039},
+   year = {2018},
+   type = {Journal Article}
+}
+
+@article{RN1123,
+   author = {Quinn, J. D. and Reed, P. M. and Giuliani, M. and Castelletti, A. and Oyler, J. W. and Nicholas, R. E.},
+   title = {Exploring How Changing Monsoonal Dynamics and Human Pressures Challenge Multireservoir Management for Flood Protection, Hydropower Production, and Agricultural Water Supply},
+   journal = {Water Resources Research},
+   volume = {54},
+   number = {7},
+   pages = {4638-4662},
+   ISSN = {0043-1397},
+   DOI = {10.1029/2018wr022743},
+   url = {<Go to ISI>://WOS:000442502100026},
+   year = {2018},
+   type = {Journal Article}
+}
+
+@article{RN1026,
+   author = {Rani, S. L. and Dhariwal, R. and Koch, D. L.},
+   title = {Clustering of rapidly settling, low-inertia particle pairs in isotropic turbulence. Part 2. Comparison of theory and DNS},
+   journal = {Journal of Fluid Mechanics},
+   volume = {871},
+   pages = {477-488},
+   ISSN = {0022-1120},
+   DOI = {10.1017/jfm.2019.294},
+   url = {<Go to ISI>://WOS:000493076600002},
+   year = {2019},
+   type = {Journal Article}
+}
+
+@article{RN1025,
+   author = {Rani, S. L. and Gupta, V. K. and Koch, D. L.},
+   title = {Clustering of rapidly settling, low-inertia particle pairs in isotropic turbulence. Part 1. Drift and diffusion flux closures},
+   journal = {Journal of Fluid Mechanics},
+   volume = {871},
+   pages = {450-476},
+   ISSN = {0022-1120},
+   DOI = {10.1017/jfm.2019.204},
+   url = {<Go to ISI>://WOS:000493076600001},
+   year = {2019},
+   type = {Journal Article}
+}
+
+@article{RN1089,
+   author = {Rifai, I. and Abderrezzak, K. E. and Erpicum, S. and Archambeau, P. and Violeau, D. and Pirotton, M. and Dewals, B.},
+   title = {Floodplain Backwater Effect on Overtopping Induced Fluvial Dike Failure},
+   journal = {Water Resources Research},
+   volume = {54},
+   number = {11},
+   pages = {9060-9073},
+   ISSN = {0043-1397},
+   DOI = {10.1029/2017wr022492},
+   url = {<Go to ISI>://WOS:000453369400028},
+   year = {2018},
+   type = {Journal Article}
+}
+
+@article{RN993,
+   author = {Rosti, M. E. and Ge, Z. Y. and Jain, S. S. and Dodd, M. S. and Brandt, L.},
+   title = {Droplets in homogeneous shear turbulence},
+   journal = {Journal of Fluid Mechanics},
+   volume = {876},
+   pages = {962-984},
+   ISSN = {0022-1120},
+   DOI = {10.1017/jfm.2019.581},
+   url = {<Go to ISI>://WOS:000480242100001},
+   year = {2019},
+   type = {Journal Article}
+}
+
+@article{RN1038,
+   author = {Sabelnikov, V. A. and Lipatnikov, A. N. and Nishiki, S. and Hasegawa, T.},
+   title = {Investigation of the influence of combustion-induced thermal expansion on two-point turbulence statistics using conditioned structure functions},
+   journal = {Journal of Fluid Mechanics},
+   volume = {867},
+   pages = {45-76},
+   ISSN = {0022-1120},
+   DOI = {10.1017/jfm.2019.128},
+   url = {<Go to ISI>://WOS:000461797500001},
+   year = {2019},
+   type = {Journal Article}
+}
+
+@article{RN976,
+   author = {Saito, I. and Watanabe, T. and Gotoh, T.},
+   title = {A new time scale for turbulence modulation by particles},
+   journal = {Journal of Fluid Mechanics},
+   volume = {880},
+   ISSN = {0022-1120},
+   DOI = {ARTN R6
+10.1017/jfm.2019.775},
+   url = {<Go to ISI>://WOS:000506234600006},
+   year = {2019},
+   type = {Journal Article}
+}
+
+@article{RN1067,
+   author = {Salehipour, H. and Peltier, W. R.},
+   title = {Deep learning of mixing by two 'atoms' of stratified turbulence},
+   journal = {Journal of Fluid Mechanics},
+   volume = {861},
+   ISSN = {0022-1120},
+   DOI = {ARTN R4
+10.1017/jfm.2018.980},
+   url = {<Go to ISI>://WOS:000454909800001},
+   year = {2019},
+   type = {Journal Article}
+}
+
+@article{RN1073,
+   author = {Salmon, R.},
+   title = {Entropy budget and coherent structures associated with a spectral closure model of turbulence},
+   journal = {Journal of Fluid Mechanics},
+   volume = {857},
+   pages = {806-822},
+   ISSN = {0022-1120},
+   DOI = {10.1017/jfm.2018.778},
+   url = {<Go to ISI>://WOS:000448524100001},
+   year = {2019},
+   type = {Journal Article}
+}
+
+@article{RN1050,
+   author = {Sasaki, K. and Vinuesa, R. and Cavalieri, A. V. G. and Schlatter, P. and Henningson, D. S.},
+   title = {Transfer functions for flow predictions in wall-bounded turbulence},
+   journal = {Journal of Fluid Mechanics},
+   volume = {864},
+   pages = {708-745},
+   ISSN = {0022-1120},
+   DOI = {10.1017/jfm.2019.27},
+   url = {<Go to ISI>://WOS:000458488900001},
+   year = {2019},
+   type = {Journal Article}
+}
+
+@article{RN1084,
+   author = {Schlef, K. E. and Francois, B. and Robertson, A. W. and Brown, C.},
+   title = {A General Methodology for Climate-Informed Approaches to Long-Term Flood ProjectionIllustrated With the Ohio River Basin},
+   journal = {Water Resources Research},
+   volume = {54},
+   number = {11},
+   pages = {9321-9341},
+   ISSN = {0043-1397},
+   DOI = {10.1029/2018wr023209},
+   url = {<Go to ISI>://WOS:000453369400042},
+   year = {2018},
+   type = {Journal Article}
+}
+
+@article{RN1003,
+   author = {Schneiders, L. and Frohlich, K. and Meinke, M. and Schroder, W.},
+   title = {The decay of isotropic turbulence carrying non-spherical finite-size particles},
+   journal = {Journal of Fluid Mechanics},
+   volume = {875},
+   pages = {520-542},
+   ISSN = {0022-1120},
+   DOI = {10.1017/jfm.2019.516},
+   url = {<Go to ISI>://WOS:000483183200001},
+   year = {2019},
+   type = {Journal Article}
+}
+
+@article{RN1083,
+   author = {Sharma, A. and Wasko, C. and Lettenmaier, D. P.},
+   title = {If Precipitation Extremes Are Increasing, Why Aren't Floods?},
+   journal = {Water Resources Research},
+   volume = {54},
+   number = {11},
+   pages = {8545-8551},
+   ISSN = {0043-1397},
+   DOI = {10.1029/2018wr023749},
+   url = {<Go to ISI>://WOS:000453369400001},
+   year = {2018},
+   type = {Journal Article}
+}
+
+@article{RN1103,
+   author = {Smith, J. A. and Cox, A. A. and Baeck, M. L. and Yang, L. and Bates, P.},
+   title = {Strange Floods: The Upper Tail of Flood Peaks in the United States},
+   journal = {Water Resources Research},
+   volume = {54},
+   number = {9},
+   pages = {6510-6542},
+   ISSN = {0043-1397},
+   DOI = {10.1029/2018wr022539},
+   url = {<Go to ISI>://WOS:000448088100039},
+   year = {2018},
+   type = {Journal Article}
+}
+
+@article{RN982,
+   author = {Sullivan, P. P. and McWilliams, J. C.},
+   title = {Langmuir turbulence and filament frontogenesis in the oceanic surface boundary layer},
+   journal = {Journal of Fluid Mechanics},
+   volume = {879},
+   pages = {512-553},
+   ISSN = {0022-1120},
+   DOI = {10.1017/jfm.2019.655},
+   url = {<Go to ISI>://WOS:000488767400001},
+   year = {2019},
+   type = {Journal Article}
+}
+
+@article{RN1034,
+   author = {Sun, M. B. and Liu, Y. and Hu, Z. W.},
+   title = {Turbulence decay in a supersonic boundary layer subjected to a transverse sonic jet},
+   journal = {Journal of Fluid Mechanics},
+   volume = {867},
+   pages = {216-249},
+   ISSN = {0022-1120},
+   DOI = {ARTN 106102
+PII S0022112019001587
+10.1017/jfm.2019.158},
+   url = {<Go to ISI>://WOS:000462075200001},
+   year = {2019},
+   type = {Journal Article}
+}
+
+@article{RN1046,
+   author = {Sun, M. B. and Sandham, N. D. and Hue, Z. W.},
+   title = {Turbulence structures and statistics of a supersonic turbulent boundary layer subjected to concave surface curvature},
+   journal = {Journal of Fluid Mechanics},
+   volume = {865},
+   pages = {60-99},
+   ISSN = {0022-1120},
+   DOI = {10.1017/jfm.2019.19},
+   url = {<Go to ISI>://WOS:000459705800001},
+   year = {2019},
+   type = {Journal Article}
+}
+
+@article{RN1125,
+   author = {Sun, Y. and Bao, W. and Jiang, P. and Ji, X. and Gao, S. and Xu, Y. and Zhang, Q. and Si, W.},
+   title = {Development of Multivariable Dynamic System Response Curve Method for Real-Time Flood Forecasting Correction},
+   journal = {Water Resources Research},
+   volume = {54},
+   number = {7},
+   pages = {4730-4749},
+   ISSN = {0043-1397},
+   DOI = {10.1029/2018wr022555},
+   url = {<Go to ISI>://WOS:000442502100031},
+   year = {2018},
+   type = {Journal Article}
+}
+
+@article{RN1056,
+   author = {Sundin, J. and Bagheri, S.},
+   title = {Interaction between hairy surfaces and turbulence for different surface time scales},
+   journal = {Journal of Fluid Mechanics},
+   volume = {861},
+   pages = {556-584},
+   ISSN = {0022-1120},
+   DOI = {10.1017/jfm.2018.935},
+   url = {<Go to ISI>://WOS:000454407500002},
+   year = {2019},
+   type = {Journal Article}
+}
+
+@article{RN1138,
+   author = {Sung, K. and Jeong, H. and Sangwan, N. and Yu, D. J.},
+   title = {Effects of Flood Control Strategies on Flood Resilience Under Sociohydrological Disturbances},
+   journal = {Water Resources Research},
+   volume = {54},
+   number = {4},
+   pages = {2661-2680},
+   ISSN = {0043-1397},
+   DOI = {10.1002/2017wr021440},
+   url = {<Go to ISI>://WOS:000434186400009},
+   year = {2018},
+   type = {Journal Article}
+}
+
+@article{RN994,
+   author = {Svancara, P. and La Mantia, M.},
+   title = {Flight-crash events in superfluid turbulence},
+   journal = {Journal of Fluid Mechanics},
+   volume = {876},
+   ISSN = {0022-1120},
+   DOI = {ARTN R2
+10.1017/jfm.2019.586},
+   url = {<Go to ISI>://WOS:000478045500001},
+   year = {2019},
+   type = {Journal Article}
+}
+
+@article{RN1088,
+   author = {Tang, Q. and Schilling, O. S. and Kurtz, W. and Brunner, P. and Vereecken, H. and Franssen, H. J. H.},
+   title = {Simulating Flood-Induced Riverbed Transience Using Unmanned Aerial Vehicles, Physically Based Hydrological Modeling, and the Ensemble Kalman Filter},
+   journal = {Water Resources Research},
+   volume = {54},
+   number = {11},
+   pages = {9342-9363},
+   ISSN = {0043-1397},
+   DOI = {10.1029/2018wr023067},
+   url = {<Go to ISI>://WOS:000453369400043},
+   year = {2018},
+   type = {Journal Article}
+}
+
+@article{RN1098,
+   author = {Tarasova, L. and Basso, S. and Poncelet, C. and Merz, R.},
+   title = {Exploring Controls on Rainfall-Runoff Events: 2. Regional Patterns and Spatial Controls of Event Characteristics in Germany},
+   journal = {Water Resources Research},
+   volume = {54},
+   number = {10},
+   pages = {7688-7710},
+   ISSN = {0043-1397},
+   DOI = {10.1029/2018wr022588},
+   url = {<Go to ISI>://WOS:000450726000032},
+   year = {2018},
+   type = {Journal Article}
+}
+
+@article{RN1101,
+   author = {Tarasova, L. and Basso, S. and Zink, M. and Merz, R.},
+   title = {Exploring Controls on Rainfall-Runoff Events: 1. Time Series- Based Event Separation and Temporal Dynamics of Event Runoff Response in Germany},
+   journal = {Water Resources Research},
+   volume = {54},
+   number = {10},
+   pages = {7711-7732},
+   ISSN = {0043-1397},
+   DOI = {10.1029/2018wr022587},
+   url = {<Go to ISI>://WOS:000450726000033},
+   year = {2018},
+   type = {Journal Article}
+}
+
+@article{RN1080,
+   author = {Tatomir, A. and De Vriendt, K. and Zhou, D. and Gao, H. and Duschl, F. and Sun, F. and Licha, T. and Sauter, M.},
+   title = {Kinetic Interface Sensitive Tracers: Experimental Validation in a Two-Phase Flow Column Experiment. A Proof of Concept},
+   journal = {Water Resources Research},
+   volume = {54},
+   number = {12},
+   pages = {10223-10241},
+   ISSN = {0043-1397},
+   DOI = {10.1029/2018wr022621},
+   url = {<Go to ISI>://WOS:000456949300012},
+   year = {2018},
+   type = {Journal Article}
+}
+
+@article{RN998,
+   author = {Thomas, J. and Yamada, R.},
+   title = {Geophysical turbulence dominated by inertia-gravity waves},
+   journal = {Journal of Fluid Mechanics},
+   volume = {875},
+   pages = {71-100},
+   ISSN = {0022-1120},
+   DOI = {PII S0022112019004658
+10.1017/jfm.2019.465},
+   url = {<Go to ISI>://WOS:000475889400001},
+   year = {2019},
+   type = {Journal Article}
+}
+
+@article{RN1105,
+   author = {Thorarinsdottir, T. L. and Hellton, K. H. and Steinbakk, G. H. and Schlichting, L. and Engeland, K.},
+   title = {Bayesian Regional Flood Frequency Analysis for Large Catchments},
+   journal = {Water Resources Research},
+   volume = {54},
+   number = {9},
+   pages = {6929-6947},
+   ISSN = {0043-1397},
+   DOI = {10.1029/2017wr022460},
+   url = {<Go to ISI>://WOS:000448088100060},
+   year = {2018},
+   type = {Journal Article}
+}
+
+@article{RN977,
+   author = {Tian, Y. F. and Jaberi, F. A. and Livescu, D.},
+   title = {Density effects on post-shock turbulence structure and dynamics},
+   journal = {Journal of Fluid Mechanics},
+   volume = {880},
+   pages = {935-968},
+   ISSN = {0022-1120},
+   DOI = {10.1017/jfm.2019.707},
+   url = {<Go to ISI>://WOS:000506235800034},
+   year = {2019},
+   type = {Journal Article}
+}
+
+@article{RN1020,
+   author = {Tom, J. and Bragg, A. D.},
+   title = {Multiscale preferential sweeping of particles settling in turbulence},
+   journal = {Journal of Fluid Mechanics},
+   volume = {871},
+   pages = {244-270},
+   ISSN = {0022-1120},
+   DOI = {PII S0022112019003379
+10.1017/jfm.2019.337},
+   url = {<Go to ISI>://WOS:000470300300001},
+   year = {2019},
+   type = {Journal Article}
+}
+
+@article{RN1018,
+   author = {Tom, J. and Bragg, A. D.},
+   title = {Multiscale preferential sweeping of particles settling in turbulence (vol 871, 244, 2019)},
+   journal = {Journal of Fluid Mechanics},
+   volume = {872},
+   pages = {995-995},
+   ISSN = {0022-1120},
+   DOI = {PII S0022112019004373
+10.1017/jfm.2019.437},
+   url = {<Go to ISI>://WOS:000471629200001},
+   year = {2019},
+   type = {Journal Article}
+}
+
+@article{RN1000,
+   author = {Touber, E.},
+   title = {Small-scale two-dimensional turbulence shaped by bulk viscosity},
+   journal = {Journal of Fluid Mechanics},
+   volume = {875},
+   pages = {974-1003},
+   ISSN = {0022-1120},
+   DOI = {PII S0022112019005317
+10.1017/jfm.2019.531},
+   url = {<Go to ISI>://WOS:000477624800001},
+   year = {2019},
+   type = {Journal Article}
+}
+
+@article{RN1099,
+   author = {Tran, Q. Q. and De Niel, J. and Willems, P.},
+   title = {Spatially Distributed Conceptual Hydrological Model Building: A Genetic top-Down Approach Starting From Lumped Models},
+   journal = {Water Resources Research},
+   volume = {54},
+   number = {10},
+   pages = {8064-8085},
+   ISSN = {0043-1397},
+   DOI = {10.1029/2018wr023566},
+   url = {<Go to ISI>://WOS:000450726000052},
+   year = {2018},
+   type = {Journal Article}
+}
+
+@article{RN1110,
+   author = {Unsworth, C. A. and Parsons, D. R. and Hardy, R. J. and Reesink, A. J. H. and Best, J. L. and Ashworth, P. J. and Keevil, G. M.},
+   title = {The Impact of Nonequilibrium Flow on the Structure of Turbulence Over River Dunes},
+   journal = {Water Resources Research},
+   volume = {54},
+   number = {9},
+   pages = {6566-6584},
+   ISSN = {0043-1397},
+   DOI = {10.1029/2017wr021377},
+   url = {<Go to ISI>://WOS:000448088100041},
+   year = {2018},
+   type = {Journal Article}
+}
+
+@article{RN1048,
+   author = {van Kan, A. and Alexakis, A.},
+   title = {Condensates in thin-layer turbulence},
+   journal = {Journal of Fluid Mechanics},
+   volume = {864},
+   pages = {490-518},
+   ISSN = {0022-1120},
+   DOI = {10.1017/jfm.2019.29},
+   url = {<Go to ISI>://WOS:000458516000001},
+   year = {2019},
+   type = {Journal Article}
+}
+
+@article{RN1119,
+   author = {Viero, D. P. and Defina, A.},
+   title = {Consideration of the Mechanisms for Tidal Bore Formation in an Idealized Planform Geometry},
+   journal = {Water Resources Research},
+   volume = {54},
+   number = {8},
+   pages = {5670-5686},
+   ISSN = {0043-1397},
+   DOI = {10.1029/2018wr022937},
+   url = {<Go to ISI>://WOS:000445451800029},
+   year = {2018},
+   type = {Journal Article}
+}
+
+@article{RN1062,
+   author = {Vlaykov, D. G. and Wilczek, M.},
+   title = {On the small-scale structure of turbulence and its impact on the pressure field},
+   journal = {Journal of Fluid Mechanics},
+   volume = {861},
+   pages = {422-446},
+   ISSN = {0022-1120},
+   DOI = {10.1017/jfm.2018.857},
+   url = {<Go to ISI>://WOS:000453909600002},
+   year = {2019},
+   type = {Journal Article}
+}
+
+@article{RN1082,
+   author = {Vogel, K. and Weise, L. and Schroter, K. and Thieken, A. H.},
+   title = {Identifying Driving Factors in Flood-Damaging Processes Using Graphical Models},
+   journal = {Water Resources Research},
+   volume = {54},
+   number = {11},
+   pages = {8864-8889},
+   ISSN = {0043-1397},
+   DOI = {10.1029/2018wr022858},
+   url = {<Go to ISI>://WOS:000453369400018},
+   year = {2018},
+   type = {Journal Article}
+}
+
+@article{RN1085,
+   author = {Volpi, E. and Di Lazzaro, M. and Bertola, M. and Viglione, A. and Fiori, A.},
+   title = {Reservoir Effects on Flood Peak Discharge at the Catchment Scale},
+   journal = {Water Resources Research},
+   volume = {54},
+   number = {11},
+   pages = {9623-9636},
+   ISSN = {0043-1397},
+   DOI = {10.1029/2018wr023866},
+   url = {<Go to ISI>://WOS:000453369400057},
+   year = {2018},
+   type = {Journal Article}
+}
+
+@article{RN1045,
+   author = {Vreugdenhil, C. A. and Gayen, B. and Griiths, R. W.},
+   title = {Transport by deep convection in basin-scale geostrophic circulation: turbulence-resolving simulations},
+   journal = {Journal of Fluid Mechanics},
+   volume = {865},
+   pages = {681-719},
+   ISSN = {0022-1120},
+   DOI = {ARTN L10603
+10.1017/jfm.2019.64},
+   url = {<Go to ISI>://WOS:000459696500001},
+   year = {2019},
+   type = {Journal Article}
+}
+
+@article{RN1124,
+   author = {Wade, C. M. and Cobourn, K. M. and Amacher, G. S. and Hester, E. T.},
+   title = {Policy Targeting to Reduce Economic Damages From Land Subsidence},
+   journal = {Water Resources Research},
+   volume = {54},
+   number = {7},
+   pages = {4401-4416},
+   ISSN = {0043-1397},
+   DOI = {10.1029/2017wr022133},
+   url = {<Go to ISI>://WOS:000442502100013},
+   year = {2018},
+   type = {Journal Article}
+}
+
+@article{RN1135,
+   author = {Wagenaar, D. and Ludtke, S. and Schroter, K. and Bouwer, L. M. and Kreibich, H.},
+   title = {Regional and Temporal Transferability of Multivariable Flood Damage Models},
+   journal = {Water Resources Research},
+   volume = {54},
+   number = {5},
+   pages = {3688-3703},
+   ISSN = {0043-1397},
+   DOI = {10.1029/2017wr022233},
+   url = {<Go to ISI>://WOS:000442351300024},
+   year = {2018},
+   type = {Journal Article}
+}
+
+@article{RN1059,
+   author = {Wang, G. and Richter, D. H.},
+   title = {Modulation of the turbulence regeneration cycle by inertial particles in planar Couette flow},
+   journal = {Journal of Fluid Mechanics},
+   volume = {861},
+   pages = {901-929},
+   ISSN = {0022-1120},
+   DOI = {10.1017/jfm.2018.936},
+   url = {<Go to ISI>://WOS:000454504200001},
+   year = {2019},
+   type = {Journal Article}
+}
+
+@article{RN1137,
+   author = {Wang, J. and Guo, Y. P.},
+   title = {An Analytical Stochastic Approach for Evaluating the Performance of Combined Sewer Overflow Tanks},
+   journal = {Water Resources Research},
+   volume = {54},
+   number = {5},
+   pages = {3357-3375},
+   ISSN = {0043-1397},
+   DOI = {10.1029/2017wr022286},
+   url = {<Go to ISI>://WOS:000442351300008},
+   year = {2018},
+   type = {Journal Article}
+}
+
+@article{RN1033,
+   author = {Wang, J. C. and Wan, M. P. and Chen, S. and Xie, C. Y. and Wang, L. P. and Chen, S. Y.},
+   title = {Cascades of temperature and entropy fluctuations in compressible turbulence},
+   journal = {Journal of Fluid Mechanics},
+   volume = {867},
+   pages = {195-215},
+   ISSN = {0022-1120},
+   DOI = {10.1017/jfm.2019.116},
+   url = {<Go to ISI>://WOS:000461796300001},
+   year = {2019},
+   type = {Journal Article}
+}
+
+@article{RN1006,
+   author = {Watanabe, T. and da Silva, C. B. and Nagata, K.},
+   title = {Non-dimensional energy dissipation rate near the turbulent/non-turbulent interfacial layer in free shear flows and shear free turbulence},
+   journal = {Journal of Fluid Mechanics},
+   volume = {875},
+   pages = {321-344},
+   ISSN = {0022-1120},
+   DOI = {PII S0022112019004622
+10.1017/jfm.2019.462},
+   url = {<Go to ISI>://WOS:000475892000001},
+   year = {2019},
+   type = {Journal Article}
+}
+
+@article{RN1035,
+   author = {Watteaux, R. and Sardina, G. and Brandt, L. and Iudicone, D.},
+   title = {On the time scales and structure of Lagrangian intermittency in homogeneous isotropic turbulence},
+   journal = {Journal of Fluid Mechanics},
+   volume = {867},
+   pages = {438-481},
+   ISSN = {0022-1120},
+   DOI = {ARTN 025301(R)
+10.1017/jfm.2019.127},
+   url = {<Go to ISI>://WOS:000462506900001},
+   year = {2019},
+   type = {Journal Article}
+}
+
+@article{RN1148,
+   author = {Wohl, E. and Cadol, D. and Pfeiffer, A. and Jackson, K. and Laurel, D.},
+   title = {Distribution of Large Wood Within River Corridors in Relation to Flow Regime in the Semiarid Western US},
+   journal = {Water Resources Research},
+   volume = {54},
+   number = {3},
+   pages = {1890-1904},
+   ISSN = {0043-1397},
+   DOI = {10.1002/2017wr022009},
+   url = {<Go to ISI>://WOS:000430364900027},
+   year = {2018},
+   type = {Journal Article}
+}
+
+@article{RN1096,
+   author = {Wong, B. P. and Kerkez, B.},
+   title = {Real-Time Control of Urban Headwater Catchments Through Linear Feedback: Performance, Analysis, and Site Selection},
+   journal = {Water Resources Research},
+   volume = {54},
+   number = {10},
+   pages = {7309-7330},
+   ISSN = {0043-1397},
+   DOI = {10.1029/2018wr022657},
+   url = {<Go to ISI>://WOS:000450726000012},
+   year = {2018},
+   type = {Journal Article}
+}
+
+@article{RN1043,
+   author = {Xia, H. and Francois, N. and Punzmann, H. and Shats, M.},
+   title = {Tunable diffusion in wave-driven two-dimensional turbulence},
+   journal = {Journal of Fluid Mechanics},
+   volume = {865},
+   pages = {811-830},
+   ISSN = {0022-1120},
+   DOI = {10.1017/jfm.2019.82},
+   url = {<Go to ISI>://WOS:000459791100001},
+   year = {2019},
+   type = {Journal Article}
+}
+
+@article{RN1156,
+   author = {Xia, X. L. and Liang, Q. H. and Ming, X. D. and Hou, J. M.},
+   title = {Reply to Comment by Lu et al. on "An Efficient and Stable Hydrodynamic Model With Novel Source Term Discretization Schemes for Overland Flow and Flood Simulations"},
+   journal = {Water Resources Research},
+   volume = {54},
+   number = {1},
+   pages = {628-630},
+   ISSN = {0043-1397},
+   DOI = {10.1002/2017wr021696},
+   url = {<Go to ISI>://WOS:000428474000036},
+   year = {2018},
+   type = {Journal Article}
+}
+
+@article{RN991,
+   author = {Xie, J. H. and Buhler, O.},
+   title = {Third-order structure functions for isotropic turbulence with bidirectional energy transfer},
+   journal = {Journal of Fluid Mechanics},
+   volume = {877},
+   ISSN = {0022-1120},
+   DOI = {ARTN R3
+PII S0022112019006517
+10.1017/jfm.2019.651},
+   url = {<Go to ISI>://WOS:000483557600001},
+   year = {2019},
+   type = {Journal Article}
+}
+
+@article{RN1017,
+   author = {Xie, J. H. and Buhler, O.},
+   title = {Two-dimensional isotropic inertia-gravity wave turbulence},
+   journal = {Journal of Fluid Mechanics},
+   volume = {872},
+   pages = {752-783},
+   ISSN = {0022-1120},
+   DOI = {10.1017/jfm.2019.406},
+   url = {<Go to ISI>://WOS:000471976300001},
+   year = {2019},
+   type = {Journal Article}
+}
+
+@article{RN984,
+   author = {Xie, Y. C. and Cheng, B. Y. C. and Hu, Y. B. and Xia, K. Q.},
+   title = {Universal fluctuations in the bulk of Rayleigh-Benard turbulence},
+   journal = {Journal of Fluid Mechanics},
+   volume = {878},
+   ISSN = {0022-1120},
+   DOI = {ARTN R1
+10.1017/jfm.2019.667},
+   url = {<Go to ISI>://WOS:000484935600001},
+   year = {2019},
+   type = {Journal Article}
+}
+
+@article{RN1009,
+   author = {Xiong, S. Y. and Yang, Y.},
+   title = {Identifying the tangle of vortex tubes in homogeneous isotropic turbulence},
+   journal = {Journal of Fluid Mechanics},
+   volume = {874},
+   pages = {952-978},
+   ISSN = {0022-1120},
+   DOI = {10.1017/jfm.2019.487},
+   url = {<Go to ISI>://WOS:000477771900002},
+   year = {2019},
+   type = {Journal Article}
+}
+
+@article{RN1004,
+   author = {Xuan, A. Q. and Deng, B. Q. and Shen, L.},
+   title = {Study of wave effect on vorticity in Langmuir turbulence using wave-phase-resolved large-eddy simulation},
+   journal = {Journal of Fluid Mechanics},
+   volume = {875},
+   pages = {173-224},
+   ISSN = {0022-1120},
+   DOI = {PII S0022112019004816
+10.1017/jfm.2019.481},
+   url = {<Go to ISI>://WOS:000475893800001},
+   year = {2019},
+   type = {Journal Article}
+}
+
+@article{RN1153,
+   author = {Yan, H. X. and Sun, N. and Wigmosta, M. and Skaggs, R. and Hou, Z. S. and Leung, R.},
+   title = {Next-Generation Intensity-Duration-Frequency Curves for Hydrologic Design in Snow-Dominated Environments},
+   journal = {Water Resources Research},
+   volume = {54},
+   number = {2},
+   pages = {1093-1108},
+   ISSN = {0043-1397},
+   DOI = {10.1002/2017wr021290},
+   url = {<Go to ISI>://WOS:000428474500024},
+   year = {2018},
+   type = {Journal Article}
+}
+
+@article{RN1011,
+   author = {Yasuda, T. and Kawahara, G. and van Veen, L. and Kida, S.},
+   title = {A vortex interaction mechanism for generating energy and enstrophy fluctuations in high-symmetric turbulence},
+   journal = {Journal of Fluid Mechanics},
+   volume = {874},
+   pages = {639-676},
+   ISSN = {0022-1120},
+   DOI = {PII S0022112019003707
+10.1017/jfm.2019.370},
+   url = {<Go to ISI>://WOS:000475352300001},
+   year = {2019},
+   type = {Journal Article}
+}
+
+@article{RN980,
+   author = {Yu, X. M. and Hendrickson, K. and Campbell, B. K. and Yue, D. K. P.},
+   title = {Numerical investigation of shear-flow free-surface turbulence and air entrainment at large Froude and Weber numbers},
+   journal = {Journal of Fluid Mechanics},
+   volume = {880},
+   pages = {209-238},
+   ISSN = {0022-1120},
+   DOI = {10.1017/jfm.2019.695},
+   url = {<Go to ISI>://WOS:000506235800009},
+   year = {2019},
+   type = {Journal Article}
+}
+
+@article{RN979,
+   author = {Zammert, S. and Eckhardt, B.},
+   title = {Transition to turbulence when the Tollmien-Schlichting and bypass routes coexist},
+   journal = {Journal of Fluid Mechanics},
+   volume = {880},
+   ISSN = {0022-1120},
+   DOI = {ARTN R2
+10.1017/jfm.2019.724},
+   url = {<Go to ISI>://WOS:000506234600002},
+   year = {2019},
+   type = {Journal Article}
+}
+
+@article{RN997,
+   author = {Zhao, L. H. and Challabotia, N. R. and Andersson, H. I. and Variano, E. A.},
+   title = {Mapping spheroid rotation modes in turbulent channel flow: effects of shear, turbulence and particle inertia},
+   journal = {Journal of Fluid Mechanics},
+   volume = {876},
+   pages = {19-54},
+   ISSN = {0022-1120},
+   DOI = {10.1017/jfm.2019.521},
+   url = {<Go to ISI>://WOS:000477951500001},
+   year = {2019},
+   type = {Journal Article}
+}
+
+@article{RN1155,
+   author = {Zheng, F. F. and Maier, H. R. and Wu, W. Y. and Dandy, G. C. and Gupta, H. V. and Zhang, T. Q.},
+   title = {On Lack of Robustness in Hydrological Model Development Due to Absence of Guidelines for Selecting Calibration and Evaluation Data: Demonstration for Data-Driven Models},
+   journal = {Water Resources Research},
+   volume = {54},
+   number = {2},
+   pages = {1013-1030},
+   ISSN = {0043-1397},
+   DOI = {10.1002/2017wr021470},
+   url = {<Go to ISI>://WOS:000428474500020},
+   year = {2018},
+   type = {Journal Article}
+}
+
+@article{RN1076,
+   author = {Zheng, X. and Maidment, D. R. and Tarboton, D. G. and Liu, Y. Y. and Passalacqua, P.},
+   title = {GeoFlood: Large-Scale Flood Inundation Mapping Based on High-Resolution Terrain Analysis},
+   journal = {Water Resources Research},
+   volume = {54},
+   number = {12},
+   pages = {10013-10033},
+   ISSN = {0043-1397},
+   DOI = {10.1029/2018wr023457},
+   url = {<Go to ISI>://WOS:000456949300001},
+   year = {2018},
+   type = {Journal Article}
+}
+
+@article{RN1032,
+   author = {Zhu, X. J. and Stevens, R. J. A. M. and Shishkina, O. and Verzicco, R. and Lohse, D.},
+   title = {Nu similar to Ra{1/2}scaling enabled by multiscale wall roughness in Rayleigh-Benard turbulence},
+   journal = {Journal of Fluid Mechanics},
+   volume = {869},
+   ISSN = {0022-1120},
+   DOI = {ARTN R4
+PII S0022112019002283
+10.1017/jfm.2019.228},
+   url = {<Go to ISI>://WOS:000465376100001},
+   year = {2019},
+   type = {Journal Article}
+}
+
+@article{RN1039,
+   author = {Zhu, Y. and Cambon, C. and Godeferd, F. S. and Salhi, A.},
+   title = {Nonlinear spectral model for rotating sheared turbulence},
+   journal = {Journal of Fluid Mechanics},
+   volume = {866},
+   pages = {5-32},
+   ISSN = {0022-1120},
+   DOI = {ARTN 085106
+10.1017/jfm.2019.101},
+   url = {<Go to ISI>://WOS:000460168900001},
+   year = {2019},
+   type = {Journal Article}
+}
+
+@article{RN1087,
+   author = {Zhu, Z. H. and Wright, D. B. and Yu, G.},
+   title = {The Impact of Rainfall Space-Time Structure in Flood Frequency Analysis},
+   journal = {Water Resources Research},
+   volume = {54},
+   number = {11},
+   pages = {8983-8998},
+   ISSN = {0043-1397},
+   DOI = {10.1029/2018wr023550},
+   url = {<Go to ISI>://WOS:000453369400024},
+   year = {2018},
+   type = {Journal Article}
+}
+
+@article{RN1036,
+   author = {Zikanov, O. and Krasnov, D. and Boeck, T. and Sukoriansky, S.},
+   title = {Decay of turbulence in a liquid metal duct flow with transverse magnetic field},
+   journal = {Journal of Fluid Mechanics},
+   volume = {867},
+   pages = {661-690},
+   ISSN = {0022-1120},
+   DOI = {ARTN 244501
+PII S002211201900171X
+10.1017/jfm.2019.171},
+   url = {<Go to ISI>://WOS:000462504900001},
+   year = {2019},
+   type = {Journal Article}
+}
+
