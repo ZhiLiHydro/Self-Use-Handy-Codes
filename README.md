@@ -1,10 +1,16 @@
 # HomeMadeHandyCodes
 Homemade handy codes in daily academic life
 
-### Endnote to BibTeX
+### 1_Endnote to BibTeX
 
 ```
 endnote2bibtex.py
 ```
 
-This code is to repair the unusable bibtex keys (RN+number) exported directly from Endnote. The keys after repairs are same as the ones exported from Google Scholar. 
+This code/GUI is to repair the unusable bibtex keys (RN+number) exported directly from Endnote. The keys after repairs follow similar rules as the ones exported from Google Scholar (firstauthorlastname+year+firstwordintitle).
+
+Example:
+
+`My EndNote Library.txt` is the raw output exported from Endnote. 
+
+`MyEndNoteLibrary.bib` is the repaired output.
