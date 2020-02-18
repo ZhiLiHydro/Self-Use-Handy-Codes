@@ -1,5 +1,5 @@
 # coding: utf-8
-from string import ascii_lowercase
+from string import ascii_lowercase, punctuation
 import tkinter as tk
 from tkinter import ttk
 from tkinter import messagebox
@@ -8,7 +8,7 @@ from tkinter import messagebox
 def generate(fin, fout):
     keyList = []
     emptywordList = ['a', 'an', 'the', 'on', 'in', 'with', 'by', 'for', 'at', 'about', 'under', 'of', 'to', 'is', 'are']
-    symbolList = [',', '-', ':', '?', '!', '/', '\\', '(', ')', '\'', '\"', '{', '}', '[', ']', '%', '*']
+    symbolList = list(punctuation)
 
     with open(fin, 'r') as f:
         for line in f:
@@ -17,19 +17,20 @@ def generate(fin, fout):
                 title = ''
                 year = ''
                 done = False
-            if 'author =' in line:
-                lastname = line.split('=')[1].replace('\n', '')
+            if ' author =' in line:
+                lastname = line.split('=')[1]
                 for symbol in symbolList:
                     lastname = lastname.replace(symbol, ' ')
                 lastname = lastname.split()[0].lower()
-            if 'title =' in line:
-                title = line.split('{')[1].split('}')[0].lower()
-                if title.split()[0] in ['1-d', '2-d', '3-d']:
-                    title = title.split()[0].replace('-','')
+            if ' title =' in line:
+                title = line.split('=')[1].replace('{', '').replace('}', '')
+                if title.split()[0] in ['1-D', '2-D', '3-D']:
+                    title = title.split()[0].replace('-', '').lower()
                 else:
                     for symbol in symbolList:
                         title = title.replace(symbol, ' ')
                     for title in title.split():
+                        title = title.lower()
                         if title in emptywordList:
                             continue
                         else:
