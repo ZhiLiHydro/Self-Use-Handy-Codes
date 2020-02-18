@@ -18,7 +18,7 @@ def generate(fin, fout):
                 year = ''
                 done = False
             if 'author =' in line:
-                lastname = line.split('{')[1].split('}')[0]
+                lastname = line.split('=')[1].replace('\n', '')
                 for symbol in symbolList:
                     lastname = lastname.replace(symbol, ' ')
                 lastname = lastname.split()[0].lower()
