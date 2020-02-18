@@ -8,7 +8,7 @@ from tkinter import messagebox
 def generate(fin, fout):
     keyList = []
     emptywordList = ['a', 'an', 'the', 'on', 'in', 'with', 'by', 'for', 'at', 'about', 'under', 'of', 'to', 'is', 'are']
-    symbolList = [',', '-', ':', '?', '!', '/', '\\', '(', ')', '\'', '\"']
+    symbolList = [',', '-', ':', '?', '!', '/', '\\', '(', ')', '\'', '\"', '{', '}', '[', ']', '%', '*']
 
     with open(fin, 'r') as f:
         for line in f:
@@ -18,7 +18,10 @@ def generate(fin, fout):
                 year = ''
                 done = False
             if 'author =' in line:
-                lastname = line.split('{')[1].split('}')[0].split(',')[0].split('-')[0].split()[0].lower()
+                lastname = line.split('{')[1].split('}')[0]
+                for symbol in symbolList:
+                    lastname = lastname.replace(symbol, ' ')
+                lastname = lastname.split()[0].lower()
             if 'title =' in line:
                 title = line.split('{')[1].split('}')[0].lower()
                 if title.split()[0] in ['1-d', '2-d', '3-d']:
