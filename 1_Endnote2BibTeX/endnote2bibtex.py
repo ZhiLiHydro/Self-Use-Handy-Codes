@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 # coding: utf-8
 from string import ascii_lowercase, punctuation
 import tkinter as tk
@@ -6,6 +7,15 @@ from tkinter import messagebox
 
 
 def generate(fin, fout):
+    """
+    Search last name of first author, year and first non-empty word in title.
+    Assemble Google-Scholar-style keys (lastname+year+titlefirstword).
+    Replace original keys ``RN+number" with assembled keys.
+
+    Also adds letter suffixes to repeated keys 
+    (e.g. lee1998orangea, lee1998orangeb).
+    
+    """
     keyList = []
     emptywordList = ['a', 'an', 'the', 'on', 'in', 'with', 'by', 'for', 'at', 'about', 'under', 'of', 'to', 'is', 'are']
     symbolList = list(punctuation)
@@ -17,12 +27,12 @@ def generate(fin, fout):
                 title = ''
                 year = ''
                 done = False
-            if ' author =' in line:
+            if line.replace(' ', '').startswith('author='):
                 lastname = line.split('=')[1]
                 for symbol in symbolList:
                     lastname = lastname.replace(symbol, ' ')
                 lastname = lastname.split()[0].lower()
-            if ' title =' in line:
+            if line.replace(' ', '').startswith('title='):
                 title = line.split('=')[1].replace('{', '').replace('}', '')
                 if title.split()[0] in ['1-D', '2-D', '3-D']:
                     title = title.split()[0].replace('-', '').lower()
@@ -35,7 +45,7 @@ def generate(fin, fout):
                             continue
                         else:
                             break
-            if 'year =' in line:
+            if line.replace(' ', '').startswith('year='):
                 year = line.split('{')[1].split('}')[0]
             if len(lastname) != 0 and len(title) != 0 and len(year) != 0 and done == False:
                 key = lastname + year + title
