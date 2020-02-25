@@ -21,11 +21,11 @@ def generate(fin, fout):
     symbolList = list(punctuation)
 
     with open(fin, 'r') as f:
+        lastname, title, year = '', '', ''
+        done = False
         for line in f:
             if '@' in line:
-                lastname = ''
-                title = ''
-                year = ''
+                lastname, title, year = '', '', ''
                 done = False
             if line.replace(' ', '').startswith('author='):
                 lastname = line.split('=')[1]
