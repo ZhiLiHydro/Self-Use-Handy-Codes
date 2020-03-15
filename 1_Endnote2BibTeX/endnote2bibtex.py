@@ -75,6 +75,8 @@ def generate(fin, fout):
                     if '@' in line:
                         line = line.replace(line.split('{')[1].split(',')[0], keyList[i])
                         i += 1
+                    if line.replace(' ', '').startswith('journal=') and '&' in line:
+                        line = line.replace('&', '\&')
                     fo.write(line)
 
     return len(keyList), count
