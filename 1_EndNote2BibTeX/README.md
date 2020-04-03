@@ -10,7 +10,7 @@ This code/GUI is to repair the unusable bibtex keys (RN+number) exported directl
 
 #### Example
 
-`My EndNote Library.txt` is the raw output exported from EndNote. It contains the search result in Web of Science Core Collection with these criterions: (`year=2019` AND `journal=JFM` AND `title>=turbulence`) OR (`year=2018,2019` AND `journal=WRR` AND `title>=flood`))
+`My EndNote Library.txt` is the raw output exported from EndNote. It contains the search result in Web of Science Core Collection with these criteria: (`year=2019` AND `journal=JFM` AND `title>=turbulence`) OR (`year=2018,2019` AND `journal=WRR` AND `title>=flood`))
 
 `MyEndNoteLibrary.bib` is the repaired output.
 
