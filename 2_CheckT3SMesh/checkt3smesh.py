@@ -11,9 +11,16 @@ from numba import njit, prange
 
 
 def main():
-    fname = input('Enter filename (with extension): ')
+    fname = input('Enter mesh filename (with extension): ')
     try:
         with open(fname, 'r') as f:
+            fbc = input('Enter boundary filename (with extension): ')
+            try:
+                bc = np.loadtxt(fbc)[:,-2].astype(np.int64)
+            except IOError:
+                bc = np.zeros(0, dtype=np.int64)
+                print('\'' + fbc + '\' not found: ignoring boundary nodes')
+                pass
             print('Analyzing mesh...')
             Nnode = np.nan
             Nelem = np.nan
@@ -41,10 +48,12 @@ def main():
     elem = np.loadtxt(fname,comments=[':','#'],skiprows=Nnode+Ncomm,dtype=np.int64)
 
     @njit()
-    def vor(Nnode,Nelem,node,elem):
+    def vor(Nnode,Nelem,node,elem,bc):
         counts = np.zeros(Nnode, dtype=np.int64)
         for i in range(Nnode):
             counts[i] = elem.flatten()[elem.flatten()==i+1].size
+            if bc[bc==i+1].size > 0:
+                counts[i] += 3
         polygonXYList = []
         x, y = node[:,0], node[:,1]
         for i in range(Nnode):
@@ -55,17 +64,30 @@ def main():
                     a, b, c = elem[j] - 1
                     polygonXY[k,:] = np.linalg.solve(np.array([[x[a]-x[b],y[a]-y[b]],[x[a]-x[c],y[a]-y[c]]]), np.array([(x[a]**2-x[b]**2+y[a]**2-y[b]**2)/2,(x[a]**2-x[c]**2+y[a]**2-y[c]**2)/2]))
                     k += 1
-                    if k == counts[i]:
-                        break
-            if polygonXY[:,0].size > 2:
-                polygonXYList.append(polygonXY) 
+                    if bc[bc==i+1].size == 1:
+                        for p, q in zip([a,b,c], [b,c,a]):
+                            if bc[bc==p+1].size == 1 and bc[bc==q+1].size == 1:
+                                d = p if q == i else q
+                                polygonXY[k,:] = np.array([(x[i]+x[d])/2, (y[i]+y[d])/2])
+                                k += 1
+                        if k == counts[i] - 1:
+                            polygonXY[k,:] = np.array([x[i], y[i]])
+                            break
+                    else:
+                        if k == counts[i]:
+                            break
+            if bc.size > 0:
+                polygonXYList.append(polygonXY)
+            else:
+                if polygonXY[:,0].size > 2:
+                    polygonXYList.append(polygonXY)
         return polygonXYList
 
     print('NodeCount %d' % Nnode)
     print('ElementCount %d' % Nelem)
     print('Computing Voronoi diagram...')
     start = time.time()
-    polygonXYList = vor(Nnode,Nelem,node,elem)
+    polygonXYList = vor(Nnode,Nelem,node,elem,bc)
     print('Computation time cost = %.3f sec' % (time.time() - start))
     print('Now plotting...')
 
