@@ -17,8 +17,10 @@ def generate(fin, fout):
     
     """
     keyList = []
-    emptywordList = ['a', 'an', 'the', 'on', 'in', 'with', 'by', 'for', 'at', 'about', 'under', 'of', 'to', 'is', 'are']
-    symbolList = list(punctuation)
+    emptywordList = ['a', 'an', 'the', 'on', 'in', 'upon', 'before', 'after',
+                     'with', 'by', 'for', 'at', 'about', 'under', 'of', 'to',
+                     'is', 'are', 'am', 'why', 'what', 'where', 'when', 'who'] ## should be enough..
+    symbolList = list(punctuation) 
 
     with open(fin, 'r') as f:
         lastname, title, year = '', '', ''
@@ -75,8 +77,12 @@ def generate(fin, fout):
                     if '@' in line:
                         line = line.replace(line.split('{')[1].split(',')[0], keyList[i])
                         i += 1
-                    if line.replace(' ', '').startswith('journal=') and '&' in line:
-                        line = line.replace('&', '\&')
+                    if line.replace(' ', '').startswith('title=') or line.replace(' ', '').startswith('journal='):
+                        line = line.replace('&', '\&') ## make & symbol visible
+                        line = line.replace('{', '{{') ## lock title and journal name to avoid...
+                        line = line.replace('}', '}}') ## ...automatic UPPER2lower change
+                    if line.replace(' ', '').startswith('url=') or line.replace(' ', '').startswith('http'):
+                        continue ## remove the useless long url if [Find Full Text]ed in EndNote 
                     fo.write(line)
 
     return len(keyList), count
