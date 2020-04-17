@@ -53,7 +53,7 @@ def generate(fin, fout):
                 key = lastname + year + title
                 keyList.append(key)
                 done = True
-    
+
     repeatedkeyList = []
     for key in keyList:
         if keyList.count(key) > 1:
@@ -81,6 +81,8 @@ def generate(fin, fout):
                         line = line.replace('&', '\&') ## make & symbol visible
                         line = line.replace('{', '{{') ## lock title and journal name to avoid...
                         line = line.replace('}', '}}') ## ...automatic UPPER2lower change
+                    if line.replace(' ', '').startswith('university='):
+                        line = line.replace('university', 'school', 1)
                     if line.replace(' ', '').startswith('url=') or line.replace(' ', '').startswith('http'):
                         continue ## remove the useless long url if [Find Full Text]ed in EndNote 
                     fo.write(line)
