@@ -74,20 +74,27 @@ def generate(fin, fout):
             with open(fin, 'r') as fi:
                 i = 0
                 for line in fi:
-                    if '@' in line:
+                    if '@' in line: ## assemble keys
                         line = line.replace(line.split('{')[1].split(',')[0], keyList[i])
                         i += 1
                     if line.replace(' ', '').startswith('title=') or line.replace(' ', '').startswith('journal='):
-                        line = line.replace('&', '\&') ## make & symbol visible
+                        line = line.replace('&', '\&') ## make & symbol visible in BibTex
                         line = line.replace('{', '{{') ## lock title and journal name to avoid...
-                        line = line.replace('}', '}}') ## ...automatic UPPER2lower change
-                    if line.replace(' ', '').startswith('university='):
-                        line = line.replace('university', 'school', 1)
+                        line = line.replace('}', '}}') ## ...automatic UPPER to lower case change
+                    if line.replace(' ', '').startswith('university='): ## it seems only school works for...
+                        line = line.replace('university', 'school', 1)  ## ...phdthesis type, university not
+                    if line.replace(' ', '').startswith('DOI='): ## fix common issues in DOI
+                        for useless in ['Artn','ARTN','Unsp','UNSP']:
+                            if line.count(useless) > 0:
+                                line = line.split(useless)[0]
+                        if line.replace(' ', '').count('DOI={Doi') > 0:
+                            line = line[::-1].replace(' ioD','',1)[::-1]
+                        if line.replace(' ', '').count('DOI={DOI') > 0:
+                            line = line[::-1].replace(' IOD','',1)[::-1]
                     if line.replace(' ', '').startswith('url=') or line.replace(' ', '').startswith('http'):
-                        continue ## remove the useless long url if [Find Full Text]ed in EndNote 
+                        continue ## remove long url if [Find Full Text]ed in EndNote
                     fo.write(line)
-
-    return len(keyList), count
+    return keyList, len(keyList), count
 
 
 def main():
@@ -138,17 +145,18 @@ def main():
 
     def convert():
         try:
-            processedkeys, allkeys = generate(finvar.get(), foutvar.get())
+            keyList, processedkeys, allkeys = generate(finvar.get(), foutvar.get())
             if processedkeys != allkeys:
                 message = '\''+foutvar.get()+'\' CANNOT be generated\nError: '\
                           +str(processedkeys)+' out of '+str(allkeys)+' OK\n'\
                           +'Check if each bib item contains author, title and year'
             else:
                 message = '\''+foutvar.get()+'\' has been generated\n'\
-                          +str(processedkeys)+' bib items in total'
-            messagebox.showinfo(
+                          +str(processedkeys)+' bib items in total\n\nPrint result in command line?\n'
+            if messagebox.askyesno(
                 message=message,
-                icon='info')
+                icon='info'):
+                print('\\cite{'+str(keyList)[2:-2].replace('\', \'','}\n\\cite{')+'}')
         except FileNotFoundError:
             messagebox.showinfo(
                 message='The input file \''+finvar.get()+'\' not found',
