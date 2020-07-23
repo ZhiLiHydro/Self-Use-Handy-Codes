@@ -5,4 +5,6 @@ Self-Use handy codes in daily academic life
 
 2. [Check T3S Mesh](https://github.com/ZhiLiHydro/HomeMadeHandyCodes/tree/master/2_CheckT3SMesh): Why my mesh gives me bad results?
 
-3. ...
+3. [PyTecplot related](https://github.com/ZhiLiHydro/HomeMadeHandyCodes/tree/master/3_PyTecplot-related)
+
+and more to be added
