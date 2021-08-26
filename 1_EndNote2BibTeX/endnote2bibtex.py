@@ -8,7 +8,7 @@ from tkinter import messagebox
 
 def generate(fin, fout):
     """
-    Search last name of first author, year and first non-empty word in title.
+    Search last name of first author, year and first meaningful word in title.
     Assemble Google-Scholar-style keys (lastname+year+titlefirstword).
     Replace original keys ``RN+number" with assembled keys.
 
@@ -17,9 +17,11 @@ def generate(fin, fout):
     
     """
     keyList = []
-    emptywordList = ['a', 'an', 'the', 'on', 'in', 'upon', 'before', 'after',
-                     'with', 'by', 'for', 'at', 'about', 'under', 'of', 'to',
-                     'is', 'are', 'am', 'why', 'what', 'where', 'when', 'who'] ## should be enough..
+    meaninglesswordList = ['a', 'an', 'the', 'on', 'in', 'upon', 'before', 'after',
+                     'with', 'by', 'for', 'at', 'about', 'under', 'of', 'to', 'from',
+                     'is', 'are', 'am', 'why', 'what', 'where', 'when', 'who', 'how',
+                     'because', 'as', 'since', 'between', 'beyond', 'near', 'off', 'over',
+                     'through', 'toward', 'towards', 'per', 'past', 'without'] ## should be enough..
     symbolList = list(punctuation) 
 
     with open(fin, 'r') as f:
@@ -43,7 +45,7 @@ def generate(fin, fout):
                         title = title.replace(symbol, ' ')
                     for title in title.split():
                         title = title.lower()
-                        if title in emptywordList:
+                        if title in meaninglesswordList:
                             continue
                         else:
                             break
@@ -78,13 +80,13 @@ def generate(fin, fout):
                         line = line.replace(line.split('{')[1].split(',')[0], keyList[i])
                         i += 1
                     if line.replace(' ', '').startswith('title=') or line.replace(' ', '').startswith('journal='):
-                        line = line.replace('&', '\&') ## make & symbol visible in BibTex
+                        line = line.replace('&', '\&') ## make '&' symbol visible in BibTex
                         line = line.replace('{', '{{') ## lock title and journal name to avoid...
                         line = line.replace('}', '}}') ## ...automatic UPPER to lower case change
-                    if line.replace(' ', '').startswith('university='): ## it seems only school works for...
-                        line = line.replace('university', 'school', 1)  ## ...phdthesis type, university not
+                    if line.replace(' ', '').startswith('university='): ## it seems only 'school' works for...
+                        line = line.replace('university', 'school', 1)  ## ...phdthesis type; 'university' not working
                     if line.replace(' ', '').startswith('DOI='): ## fix common issues in DOI
-                        for useless in ['Artn','ARTN','Unsp','UNSP']:
+                        for useless in ['Artn','ARTN','Unsp','UNSP', 'Pii']:
                             if line.count(useless) > 0:
                                 line = line.split(useless)[0]
                         if line.replace(' ', '').count('DOI={Doi') > 0:
