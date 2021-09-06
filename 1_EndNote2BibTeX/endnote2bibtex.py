@@ -8,12 +8,12 @@ from tkinter import messagebox
 
 def generate(fin, fout):
     """
-    Search last name of first author, year and first meaningful word in title.
+    Search first author last name, year, and first meaningful word in title.
     Assemble Google-Scholar-style keys (lastname+year+titlefirstword).
-    Replace original keys ``RN+number" with assembled keys.
+    Replace original keys ``RN+number" with new keys.
 
     Also adds letter suffixes to repeated keys 
-    (e.g. lee1998orangea, lee1998orangeb).
+    (e.g. peter1998researcha, peter1998researchb).
     
     """
     keyList = []
@@ -86,13 +86,21 @@ def generate(fin, fout):
                     if line.replace(' ', '').startswith('university='): ## it seems only 'school' works for...
                         line = line.replace('university', 'school', 1)  ## ...phdthesis type; 'university' not working
                     if line.replace(' ', '').startswith('DOI='): ## fix common issues in DOI
-                        for useless in ['Artn','ARTN','Unsp','UNSP', 'Pii']:
-                            if line.count(useless) > 0:
+                        for useless in ['Artn','ARTN','Unsp','UNSP', 'Pii', 'PII']:
+                            if useless in line:
                                 line = line.split(useless)[0]
-                        if line.replace(' ', '').count('DOI={Doi') > 0:
-                            line = line[::-1].replace(' ioD','',1)[::-1]
-                        if line.replace(' ', '').count('DOI={DOI') > 0:
+                        if line.replace(' ', '').startswith('DOI={Doi'):
+                            line = line.replace('Doi','')
+                        if line.replace(' ', '').startswith('DOI={DOI'):
                             line = line[::-1].replace(' IOD','',1)[::-1]
+                        if line.replace(' ', '').startswith('DOI={Book_Doi'):
+                            line = line.replace('Book_Doi','')
+                    if line.split(' ')[0] in ['Artn','ARTN','Unsp','UNSP', 'Pii', 'PII']:
+                        continue
+                    if line.startswith('Doi 10'):
+                        line = line.replace('Doi ','')
+                    if line.startswith('DOI 10'):
+                        line = line.replace('DOI ','')
                     if line.replace(' ', '').startswith('url=') or line.replace(' ', '').startswith('http'):
                         continue ## remove long url if [Find Full Text]ed in EndNote
                     fo.write(line)
