@@ -83,6 +83,11 @@ def generate(fin, fout):
                         line = line.replace('&', '\&') ## make '&' symbol visible in BibTex
                         line = line.replace('{', '{{') ## lock title and journal name to avoid...
                         line = line.replace('}', '}}') ## ...automatic UPPER to lower case change
+                    if line.replace(' ', '').startswith('journal='):
+                        if 'Ieee' in line:
+                            line = line.replace('Ieee', 'IEEE')
+                        if 'Asce' in line:
+                            line = line.replace('Asce', 'ASCE')
                     if line.replace(' ', '').startswith('university='): ## it seems only 'school' works for...
                         line = line.replace('university', 'school', 1)  ## ...phdthesis type; 'university' not working
                     if line.replace(' ', '').startswith('DOI='): ## fix common issues in DOI
@@ -90,11 +95,11 @@ def generate(fin, fout):
                             if useless in line:
                                 line = line.split(useless)[0]
                         if line.replace(' ', '').startswith('DOI={Doi'):
-                            line = line.replace('Doi','')
+                            line = line.replace('Doi ','')
                         if line.replace(' ', '').startswith('DOI={DOI'):
                             line = line[::-1].replace(' IOD','',1)[::-1]
                         if line.replace(' ', '').startswith('DOI={Book_Doi'):
-                            line = line.replace('Book_Doi','')
+                            line = line.replace('Book_Doi ','')
                     if line.split(' ')[0] in ['Artn','ARTN','Unsp','UNSP', 'Pii', 'PII']:
                         continue
                     if line.startswith('Doi 10'):
@@ -159,7 +164,10 @@ def main():
             if processedkeys != allkeys:
                 message = '\''+foutvar.get()+'\' CANNOT be generated\nError: '\
                           +str(processedkeys)+' out of '+str(allkeys)+' OK\n'\
-                          +'Check if each bib item contains author, title and year'
+                          +'Check if each bib item contains AUTHOR, TITLE and YEAR'\
+                          +'\n\nTip: Check items with \'Reference Type = Conference Paper '\
+                          +'or Conference Proceedings\', as they are always troublemakers'\
+                          +'\n\nPrint result in command line?\n'
             else:
                 message = '\''+foutvar.get()+'\' has been generated\n'\
                           +str(processedkeys)+' bib items in total\n\nPrint result in command line?\n'
