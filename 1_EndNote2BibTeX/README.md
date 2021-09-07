@@ -14,7 +14,7 @@ It also
 
 1. adds letter suffixes to repeated keys (e.g. peter1998researcha, peter1998researchb), 
 
-2. adds curly brackets to keep title and journal names in right upper and lower cases, and 
+2. adds curly brackets to preserve original title and journal names, and 
 
 3. cleans DOI.
 

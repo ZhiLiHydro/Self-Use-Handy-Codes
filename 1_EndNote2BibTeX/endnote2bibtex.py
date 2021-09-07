@@ -88,6 +88,8 @@ def generate(fin, fout):
                             line = line.replace('Ieee', 'IEEE')
                         if 'Asce' in line:
                             line = line.replace('Asce', 'ASCE')
+                        if 'Asme' in line:
+                            line = line.replace('Asme', 'ASME')
                     if line.replace(' ', '').startswith('university='): ## it seems only 'school' works for...
                         line = line.replace('university', 'school', 1)  ## ...phdthesis type; 'university' not working
                     if line.replace(' ', '').startswith('DOI='): ## fix common issues in DOI
@@ -164,13 +166,13 @@ def main():
             if processedkeys != allkeys:
                 message = '\''+foutvar.get()+'\' CANNOT be generated\nError: '\
                           +str(processedkeys)+' out of '+str(allkeys)+' OK\n'\
-                          +'Check if each bib item contains AUTHOR, TITLE and YEAR'\
-                          +'\n\nTip: Check items with \'Reference Type = Conference Paper '\
+                          +'Check if each BibTex entry contains AUTHOR, TITLE and YEAR'\
+                          +'\n\nTip: Check entries with \'Reference Type = Conference Paper '\
                           +'or Conference Proceedings\', as they are always troublemakers'\
                           +'\n\nPrint result in command line?\n'
             else:
                 message = '\''+foutvar.get()+'\' has been generated\n'\
-                          +str(processedkeys)+' bib items in total\n\nPrint result in command line?\n'
+                          +str(processedkeys)+' BibTex entries in total\n\nPrint result in command line?\n'
             if messagebox.askyesno(
                 message=message,
                 icon='info'):
